@@ -1,0 +1,1653 @@
+#EXTM3U
+#EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",RTN-America (rus)
+http://4.59.210.197:8815/udp/127.0.0.1:6002
+#EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",НТВ-America
+http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",Мульт-America
+http://4.59.210.197:8815/udp/127.0.0.1:6006
+#EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",матрас-America
+http://4.59.210.197:8815/udp/127.0.0.1:6007
+#EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",CBS LA-America
+http://4.59.210.197:8815/udp/127.0.0.1:6008
+#EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",CNBC-America
+http://4.59.210.197:8815/udp/127.0.0.1:6009
+#EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",Израиль9-America
+http://4.59.210.197:8815/udp/127.0.0.1:6013
+#EXTINF:-1 group-title="5.183.155.8_красноярский край",ТСТ 
+http://5.183.155.8:88/stream.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",Bridge_TV_Classic
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",Bridge_TV_Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",Bridge_TV_Deluxe HD
+http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",bridgetv
+http://5.188.159.128:8070/bridgetv/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",Cartoon_Network
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",DiscoveryChannel HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",HOLLYWOOD_HD
+http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",KINOPREMIERA HD
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",kinosvidanie
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",megogo_sport HD
+http://5.188.159.128:8070/megogo_sport/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",mir_24 HD
+http://5.188.159.128:8070/mir_24/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",ntvmir_TV
+http://5.188.159.128:8070/ntvmir_TV/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",rutv
+http://5.188.159.128:8070/rutv/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",TNT_MUSIC
+http://5.188.159.128:8070/TNT_MUSIC/index.m3u8
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",udar HD
+http://5.188.159.128:8070/udar/index.m3u8
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",2x2
+http://5.188.221.43:8080/play/2x2
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",5_kanal
+http://5.188.221.43:8080/play/5_kanal
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",bridge-tv
+http://5.188.221.43:8080/play/bridge-tv
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",che
+http://5.188.221.43:8080/play/che
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",disney
+http://5.188.221.43:8080/play/disney
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",domashniy
+http://5.188.221.43:8080/play/domashniy
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",karusel
+http://5.188.221.43:8080/play/karusel
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",kinosat
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",match
+http://5.188.221.43:8080/play/match
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",mir
+http://5.188.221.43:8080/play/mir
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",moya_planeta
+http://5.188.221.43:8080/play/moya_planeta
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",muz_tv
+http://5.188.221.43:8080/play/muz_tv
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",muz_tv
+http://5.188.221.43:8080/play/muz_tv
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",ntv
+http://5.188.221.43:8080/play/ntv
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",ort
+http://5.188.221.43:8080/play/ort
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",otr
+http://5.188.221.43:8080/play/otr
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",Pyatnica
+http://5.188.221.43:8080/play/Pyatnica
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",rbc_spb
+http://5.188.221.43:8080/play/rbc_spb
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",ren-tv
+http://5.188.221.43:8080/play/ren-tv
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",rossia_24
+http://5.188.221.43:8080/play/rossia_24
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",rossia_k
+http://5.188.221.43:8080/play/rossia_k
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",rossiya_1
+http://5.188.221.43:8080/play/rossiya_1
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",spas
+http://5.188.221.43:8080/play/spas
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",sts
+http://5.188.221.43:8080/play/sts
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",tnt
+http://5.188.221.43:8080/play/tnt
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",tv3
+http://5.188.221.43:8080/play/tv3
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",tv-centr
+http://5.188.221.43:8080/play/tv-centr
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",utv
+http://5.188.221.43:8080/play/utv
+#EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург",zvezda
+http://5.188.221.43:8080/play/zvezda
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",2x2
+http://31.148.48.15/2x2/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",365_dney
+http://31.148.48.15/365_dney/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",5_Kanal
+http://31.148.48.15/5_Kanal/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",7TV
+http://31.148.48.15/7TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",8_kanal
+http://31.148.48.15/8_kanal/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",A1
+http://31.148.48.15/A1/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",A2
+http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",AMC
+http://31.148.48.15/AMC/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Amedia_HIT_HD
+http://31.148.48.15/Amedia_HIT_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Amedia_Premium_HD
+http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Ani
+http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Avto_Plus
+http://31.148.48.15/Avto_Plus/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Belarus_24
+http://31.148.48.15/Belarus_24/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Boks_TV HD
+http://31.148.48.15/Boks_TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Bridge_TV
+http://31.148.48.15/Bridge_TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Bridge_TV_Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Bridge_TV_Dance
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Che
+http://31.148.48.15/Che/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Detskiy
+http://31.148.48.15/Detskiy/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Doktor HD
+http://31.148.48.15/Doktor/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Dom_Kino HD
+http://31.148.48.15/Dom_Kino/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Evrokino
+http://31.148.48.15/Evrokino/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Fan
+http://31.148.48.15/Fan/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Feniks_plus_kino
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Futbol_HD
+http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Illusion_plus
+http://31.148.48.15/Illusion_plus/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Istoriya
+http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Karusel
+http://31.148.48.15/Karusel/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",KHL_TV HD
+http://31.148.48.15/KHL_TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",KHL_TV_HD
+http://31.148.48.15/KHL_TV_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Kineko
+http://31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Kino_TV
+http://31.148.48.15/Kino_TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Kino_TV_HD
+http://31.148.48.15/Kino_TV_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Kinopokaz
+http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Kto_est_kto
+http://31.148.48.15/Kto_est_kto/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Kuhnya_TV
+http://31.148.48.15/Kuhnya_TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",KVN_TV
+http://31.148.48.15/KVN_TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",M1_Global
+http://31.148.48.15/M1_Global/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Mama
+http://31.148.48.15/Mama/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_Arena
+http://31.148.48.15/Match_Arena/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_Arena_HD
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_Boec
+http://31.148.48.15/Match_Boec/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_Igra
+http://31.148.48.15/Match_Igra/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_Futbol_1_HD
+http://31.148.48.15/Match_Futbol_1_HD/mono.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_Futbol_2_HD
+http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_Futbol_3_HD
+http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_Igra_HD
+http://31.148.48.15/Match_Igra_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_Nash_Sport
+http://31.148.48.15/Match_Nash_Sport/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_Premier_HD
+http://31.148.48.15/Match_Premier_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_Strana HD
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Match_TV
+http://31.148.48.15/Match_TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Mir
+http://31.148.48.15/Mir/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Mir_24
+http://31.148.48.15/Mir_24/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Mir_Seriala
+http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Moya_Planeta_HD
+http://31.148.48.15/Moya_Planeta_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Mult
+http://31.148.48.15/Mult/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Multilandiya
+http://31.148.48.15/Multilandiya/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Mult_HD
+http://31.148.48.15/Mult_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Multimuzika
+http://31.148.48.15/Multimuzika/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Nauka_2.0 HD
+http://31.148.48.15/Nauka_2.0/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Nostalgiya
+http://31.148.48.15/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",NTV
+http://31.148.48.15/NTV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",O2_HD
+http://31.148.48.15/O2_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",OTR
+http://31.148.48.15/OTR/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Poehali HD
+http://31.148.48.15/Poehali/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Pyatnica
+http://31.148.48.15/Pyatnica/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",RBK
+http://31.148.48.15/RBK/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Rizhiy
+http://31.148.48.15/Rizhiy/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Rodnoe_kino
+http://31.148.48.15/Rodnoe_kino/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Rossiya_1
+http://31.148.48.15/Rossiya_1/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Rossiya_24
+http://31.148.48.15/Rossiya_24/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",RTG
+http://31.148.48.15/RTG/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",RT_HD
+http://31.148.48.15/RT_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",RTG_HD
+http://31.148.48.15/RTG_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",RU_TV
+http://31.148.48.15/RU_TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Russkiy_Ekstrim
+http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Russkiy_Detektiv
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Russkiy_Bestseller
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Russkiy_illusion
+http://31.148.48.15/Russkiy_illusion/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Russkiy_Roman
+http://31.148.48.15/Russkiy_Roman/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Sapfir
+http://31.148.48.15/Sapfir/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Sankt_Peterburg
+http://31.148.48.15/Sankt_Peterburg/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Sarafan
+http://31.148.48.15/Sarafan/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Sapfir_HD
+http://31.148.48.15/Sapfir_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Sochi_HD
+http://31.148.48.15/Sochi_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Solnce
+http://31.148.48.15/Solnce/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",SONY_SCI_FI
+http://31.148.48.15/SONY_SCI_FI/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Soyuz HD
+http://31.148.48.15/Soyuz/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Spas
+http://31.148.48.15/Spas/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",STS
+http://31.148.48.15/STS/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",STS_Love
+http://31.148.48.15/STS_Love/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Super
+http://31.148.48.15/Super/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",TDK
+http://31.148.48.15/TDK/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Telekafe
+http://31.148.48.15/Telekafe/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Teleputeshestviya
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Terra
+http://31.148.48.15/Terra/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",test
+http://31.148.48.15/test/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Terra_HD
+http://31.148.48.15/Terra_HD/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",TNT
+http://31.148.48.15/TNT/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",TNT4
+http://31.148.48.15/TNT4/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Tochka_TV
+http://31.148.48.15/Tochka_TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",TV1000_Russkoe_kino
+http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",TV-3
+http://31.148.48.15/TV-3/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",U
+http://31.148.48.15/U/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Vremya
+http://31.148.48.15/Vremya/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Zdorovoe_TV
+http://31.148.48.15/Zdorovoe_TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Zdorovie
+http://31.148.48.15/Zdorovie/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Zee_TV_Russia
+http://31.148.48.15/Zee_TV_Russia/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Zhara
+http://31.148.48.15/Zhara/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Zhivaya_Planeta
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Zoo_TV
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 group-title="31.148.48.15_Ангарск",Zvezda
+http://31.148.48.15/Zvezda/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",100
+http://37.186.70.39:40/play/100/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",101 HD
+http://37.186.70.39:40/play/101/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",102 HD
+http://37.186.70.39:40/play/102/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",103
+http://37.186.70.39:40/play/103/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",105 HD
+http://37.186.70.39:40/play/105/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",106
+http://37.186.70.39:40/play/106/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",107
+http://37.186.70.39:40/play/107/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",108
+http://37.186.70.39:40/play/108/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",109
+http://37.186.70.39:40/play/109/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",110
+http://37.186.70.39:40/play/110/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",111
+http://37.186.70.39:40/play/111/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",113
+http://37.186.70.39:40/play/113/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",112
+http://37.186.70.39:40/play/112/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",114
+http://37.186.70.39:40/play/114/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",116
+http://37.186.70.39:40/play/116/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",115 HD
+http://37.186.70.39:40/play/115/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",117
+http://37.186.70.39:40/play/117/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",118
+http://37.186.70.39:40/play/118/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",119
+http://37.186.70.39:40/play/119/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",120
+http://37.186.70.39:40/play/120/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",121
+http://37.186.70.39:40/play/121/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",123 HD
+http://37.186.70.39:40/play/123/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",122 HD
+http://37.186.70.39:40/play/122/index.m3u8
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",124
+http://37.186.70.39:40/play/124/index.m3u8
+#EXTINF:-1 group-title="45.11.139.43_Армения",8kanal
+http://45.11.139.43:8555/8kanal/index.m3u8
+#EXTINF:-1 group-title="45.11.139.43_Армения",bbc
+http://45.11.139.43:8555/bbc/index.m3u8
+#EXTINF:-1 group-title="45.11.139.43_Армения",cnn HD
+http://45.11.139.43:8555/cnn/index.m3u8
+#EXTINF:-1 group-title="45.11.139.43_Армения",doctor
+http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1 group-title="45.11.139.43_Армения",euronews
+http://45.11.139.43:8555/euronews/index.m3u8
+#EXTINF:-1 group-title="45.11.139.43_Армения",fashion HD
+http://45.11.139.43:8555/fashion/index.m3u8
+#EXTINF:-1 group-title="45.11.139.43_Армения",h1
+http://45.11.139.43:8555/h1/index.m3u8
+#EXTINF:-1 group-title="45.11.139.43_Армения",lori HD
+http://45.11.139.43:8555/lori/index.m3u8
+#EXTINF:-1 group-title="45.11.139.43_Армения",orujie
+http://45.11.139.43:8555/orujie/index.m3u8
+#EXTINF:-1 group-title="45.11.139.43_Армения",vremya
+http://45.11.139.43:8555/vremya/index.m3u8
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",2tv
+http://45.145.32.13:20440/2tv/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",2x2
+http://45.145.32.13:20440/2x2/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",amedia_hit
+http://45.145.32.13:20440/amedia_hit/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",amedia_premium_hd HD
+http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",amedia1
+http://45.145.32.13:20440/amedia1/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",amedia2
+http://45.145.32.13:20440/amedia2/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",ani
+http://45.145.32.13:20440/ani/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",avto24
+http://45.145.32.13:20440/avto24/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",big_planet_hd HD
+http://45.145.32.13:20440/big_planet_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",black
+http://45.145.32.13:20440/black/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",boks_tv
+http://45.145.32.13:20440/boks_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",bollywood_hd HD
+http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",ctc
+http://45.145.32.13:20440/ctc/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",ctc_kids_hd HD
+http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",da_vinci
+http://45.145.32.13:20440/da_vinci/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",dom_kino
+http://45.145.32.13:20440/dom_kino/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",dom_kino_premium_hd HD
+http://45.145.32.13:20440/dom_kino_premium_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",domashnij
+http://45.145.32.13:20440/domashnij/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",dorama
+http://45.145.32.13:20440/dorama/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",eurokino
+http://45.145.32.13:20440/eurokino/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",fan
+http://45.145.32.13:20440/fan/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",flixsnip
+http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",gulli_girl
+http://45.145.32.13:20440/gulli_girl/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",hdl HD
+http://45.145.32.13:20440/hdl/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",hollywood_hd HD
+http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",india
+http://45.145.32.13:20440/india/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",izvestija
+http://45.145.32.13:20440/izvestija/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",karusel
+http://45.145.32.13:20440/karusel/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",khl
+http://45.145.32.13:20440/khl/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",khl_prime HD
+http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",kineko
+http://45.145.32.13:20440/kineko/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",kinomix
+http://45.145.32.13:20440/kinomix/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",kinotv
+http://45.145.32.13:20440/kinotv/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",kinoxit
+http://45.145.32.13:20440/kinoxit/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",kvn_tv
+http://45.145.32.13:20440/kvn_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mama
+http://45.145.32.13:20440/mama/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match
+http://45.145.32.13:20440/match/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_arena
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_arena_hd HD
+http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_boets
+http://45.145.32.13:20440/match_boets/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_football1
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_football3
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_football2
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_futbol_1_hd HD
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_futbol_2_hd HD
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_futbol_3_hd HD
+http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_hd HD
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_igra
+http://45.145.32.13:20440/match_igra/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_igra_hd HD
+http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_strana
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mcm_top
+http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mir
+http://45.145.32.13:20440/mir/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mir_24
+http://45.145.32.13:20440/mir_24/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mir_basketbola
+http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mmatv
+http://45.145.32.13:20440/mmatv/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mosfilm
+http://45.145.32.13:20440/mosfilm/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",moskva24
+http://45.145.32.13:20440/moskva24/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",muz_tv
+http://45.145.32.13:20440/muz_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",nauka
+http://45.145.32.13:20440/nauka/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",ntv_hit
+http://45.145.32.13:20440/ntv_hit/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",ntv_pravo
+http://45.145.32.13:20440/ntv_pravo/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",ntv_serial
+http://45.145.32.13:20440/ntv_serial/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",o
+http://45.145.32.13:20440/o/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",otp
+http://45.145.32.13:20440/otp/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",pervyj_kanal
+http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",piatnica
+http://45.145.32.13:20440/piatnica/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",pobeda
+http://45.145.32.13:20440/pobeda/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",red
+http://45.145.32.13:20440/red/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",ren_tv
+http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",rtg_hd HD
+http://45.145.32.13:20440/rtg_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",sarafan
+http://45.145.32.13:20440/sarafan/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",shot_tv
+http://45.145.32.13:20440/shot_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",spas
+http://45.145.32.13:20440/spas/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",start_air
+http://45.145.32.13:20440/start_air/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",start_world
+http://45.145.32.13:20440/start_world/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",telekafe
+http://45.145.32.13:20440/telekafe/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",terra
+http://45.145.32.13:20440/terra/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",the_explorers
+http://45.145.32.13:20440/the_explorers/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tiji
+http://45.145.32.13:20440/tiji/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tnt4
+http://45.145.32.13:20440/tnt4/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",travel_adventure
+http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tv1
+http://45.145.32.13:20440/tv1/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tv3
+http://45.145.32.13:20440/tv3/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tv6
+http://45.145.32.13:20440/tv6/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tv8
+http://45.145.32.13:20440/tv8/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tvc
+http://45.145.32.13:20440/tvc/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",udar
+http://45.145.32.13:20440/udar/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",unikum
+http://45.145.32.13:20440/unikum/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",viju_history
+http://45.145.32.13:20440/viju_history/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",viju_nature
+http://45.145.32.13:20440/viju_nature/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",viju_tv1000
+http://45.145.32.13:20440/viju_tv1000/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",viju_explore
+http://45.145.32.13:20440/viju_explore/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",viju_tv1000_action
+http://45.145.32.13:20440/viju_tv1000_action/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",zhara
+http://45.145.32.13:20440/zhara/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",zhyvi
+http://45.145.32.13:20440/zhyvi/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",zvezda
+http://45.145.32.13:20440/zvezda/index.m3u8?token=test
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",zvezdaplus
+http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",2x2
+http://46.32.176.50/2x2/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",5kanal
+http://46.32.176.50/5kanal/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",amedia1
+http://46.32.176.50/amedia1/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",amedia2
+http://46.32.176.50/amedia2/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",amediahit
+http://46.32.176.50/amediahit/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",AmediaPremium
+http://46.32.176.50/AmediaPremium/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",AmediaPremiumHD
+http://46.32.176.50/AmediaPremiumHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",animalplanet HD
+http://46.32.176.50/animalplanet/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",AnimalPlanetHD
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",anitv
+http://46.32.176.50/anitv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",avto24
+http://46.32.176.50/avto24/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",avtoplyus
+http://46.32.176.50/avtoplyus/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",bigplanet HD
+http://46.32.176.50/bigplanet/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",bobertv
+http://46.32.176.50/bobertv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",boets
+http://46.32.176.50/boets/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",bokstv
+http://46.32.176.50/bokstv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",BollywoodHD
+http://46.32.176.50/BollywoodHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",bridgetv
+http://46.32.176.50/bridgetv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",BridgeTVHD
+http://46.32.176.50/BridgeTVHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",cbc HD
+http://46.32.176.50/cbc/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",cbsreality HD
+http://46.32.176.50/cbsreality/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",ce
+http://46.32.176.50/ce/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",ctc
+http://46.32.176.50/ctc/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",detskiy
+http://46.32.176.50/detskiy/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",detskiymir HD
+http://46.32.176.50/detskiymir/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",DikayaOxotaHD
+http://46.32.176.50/DikayaOxotaHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",dikiy
+http://46.32.176.50/dikiy/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",discoverychannel HD
+http://46.32.176.50/discoverychannel/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",DiscoveryChannelHD
+http://46.32.176.50/DiscoveryChannelHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",domashniejivotnie
+http://46.32.176.50/domashniejivotnie/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",domashniy
+http://46.32.176.50/domashniy/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",domkino
+http://46.32.176.50/domkino/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",DomKinoPremiumHD
+http://46.32.176.50/DomKinoPremiumHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",eurokino
+http://46.32.176.50/eurokino/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",euronews HD
+http://46.32.176.50/euronews/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",europaplus
+http://46.32.176.50/europaplus/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",eurosport
+http://46.32.176.50/eurosport/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",eurosport2
+http://46.32.176.50/eurosport2/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",extremesport
+http://46.32.176.50/extremesport/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",foxlife
+http://46.32.176.50/foxlife/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",foxrussia
+http://46.32.176.50/foxrussia/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",HollywoodHD
+http://46.32.176.50/HollywoodHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",illuzion
+http://46.32.176.50/illuzion/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",indiskoekino
+http://46.32.176.50/indiskoekino/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",istoriya
+http://46.32.176.50/istoriya/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",jivayaplaneta
+http://46.32.176.50/jivayaplaneta/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",jivi
+http://46.32.176.50/jivi/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",karusel
+http://46.32.176.50/karusel/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",kinokomedia
+http://46.32.176.50/kinokomedia/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",kinomiks
+http://46.32.176.50/kinomiks/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",KinomiksHD
+http://46.32.176.50/KinomiksHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",kinosemya HD
+http://46.32.176.50/kinosemya/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",kinoseria HD
+http://46.32.176.50/kinoseria/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",kinosvidanie
+http://46.32.176.50/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",kinoxit HD
+http://46.32.176.50/kinoxit/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",ktoestkto
+http://46.32.176.50/ktoestkto/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",kuxnyatv
+http://46.32.176.50/kuxnyatv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",kxltv HD
+http://46.32.176.50/kxltv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",lubimoekino
+http://46.32.176.50/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",mama
+http://46.32.176.50/mama/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",MatchArenaHD
+http://46.32.176.50/MatchArenaHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",matchiqra
+http://46.32.176.50/matchiqra/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",matchtv
+http://46.32.176.50/matchtv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",MatchTVHD
+http://46.32.176.50/MatchTVHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",mcmtop
+http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",mir
+http://46.32.176.50/mir/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",mir24
+http://46.32.176.50/mir24/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",mirseriala
+http://46.32.176.50/mirseriala/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",mmatv
+http://46.32.176.50/mmatv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",moyaplaneta
+http://46.32.176.50/moyaplaneta/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",MujskoeKinoHD
+http://46.32.176.50/MujskoeKinoHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",mult
+http://46.32.176.50/mult/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",MultHD
+http://46.32.176.50/MultHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",muztv
+http://46.32.176.50/muztv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",nashenovoekino
+http://46.32.176.50/nashenovoekino/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",natgeowild HD
+http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",NatGeoWildHD
+http://46.32.176.50/NatGeoWildHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",nationalgeographic
+http://46.32.176.50/nationalgeographic/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",NationalGeographicHD
+http://46.32.176.50/NationalGeographicHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",nauka
+http://46.32.176.50/nauka/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",nickelodeonjunior HD
+http://46.32.176.50/nickelodeonjunior/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",nostalgiya
+http://46.32.176.50/nostalgiya/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",nst
+http://46.32.176.50/nst/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",ntvplus
+http://46.32.176.50/ntvplus/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",ntvsport HD
+http://46.32.176.50/ntvsport/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",OTR
+http://46.32.176.50/OTR/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",oxotoiribalka
+http://46.32.176.50/oxotoiribalka/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",paramountchannel
+http://46.32.176.50/paramountchannel/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",perviy HD
+http://46.32.176.50/perviy/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",PerviyHD
+http://46.32.176.50/PerviyHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",poexali
+http://46.32.176.50/poexali/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",rbk
+http://46.32.176.50/rbk/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",rentv
+http://46.32.176.50/rentv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",rodnoekino
+http://46.32.176.50/rodnoekino/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",rossiakultura
+http://46.32.176.50/rossiakultura/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",rossiya1
+http://46.32.176.50/rossiya1/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",RossiyaHD
+http://46.32.176.50/RossiyaHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",rtrplaneta
+http://46.32.176.50/rtrplaneta/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",rusong
+http://46.32.176.50/rusong/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",russkiydetektiv
+http://46.32.176.50/russkiydetektiv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",russkiyiluzion
+http://46.32.176.50/russkiyiluzion/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",russkiyroman
+http://46.32.176.50/russkiyroman/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",rutv HD
+http://46.32.176.50/rutv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",shanson
+http://46.32.176.50/shanson/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",solnce
+http://46.32.176.50/solnce/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",sonyscifi
+http://46.32.176.50/sonyscifi/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",sonyturbo
+http://46.32.176.50/sonyturbo/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",startv HD
+http://46.32.176.50/startv/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",subbota
+http://46.32.176.50/subbota/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",telekafe
+http://46.32.176.50/telekafe/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",tlc HD
+http://46.32.176.50/tlc/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",tnt
+http://46.32.176.50/tnt/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",tntcomedy
+http://46.32.176.50/tntcomedy/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",TravelChannelHD
+http://46.32.176.50/TravelChannelHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",tv1000 HD
+http://46.32.176.50/tv1000/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",tv1000action HD
+http://46.32.176.50/tv1000action/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",tv2
+http://46.32.176.50/tv2/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",tv21
+http://46.32.176.50/tv21/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",tv3
+http://46.32.176.50/tv3/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",tv8 HD
+http://46.32.176.50/tv8/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",tvc HD
+http://46.32.176.50/tvc/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",viasatexplorer
+http://46.32.176.50/viasatexplorer/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",viasathistory
+http://46.32.176.50/viasathistory/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",viasatnature
+http://46.32.176.50/viasatnature/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",ViasatNatureHD
+http://46.32.176.50/ViasatNatureHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",viasatsport
+http://46.32.176.50/viasatsport/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",ViasatSportHD
+http://46.32.176.50/ViasatSportHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",VIPComedyHD
+http://46.32.176.50/VIPComedyHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",VIPMegahitHD
+http://46.32.176.50/VIPMegahitHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",VIPPremiereHD
+http://46.32.176.50/VIPPremiereHD/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",Vremya
+http://46.32.176.50/Vremya/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",worldfashion
+http://46.32.176.50/worldfashion/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",zoopark
+http://46.32.176.50/zoopark/index.m3u8
+#EXTINF:-1 group-title="46.32.176.50_Баку, Азербайджан",zvezda
+http://46.32.176.50/zvezda/index.m3u8
+#EXTINF:-1 group-title="46.56.85.151_гомель",Беларусь-4 Гомель
+http://46.56.85.151:8080/0.m3u8
+#EXTINF:-1 group-title="77.232.131.211_Санкт-Петербург",Maydan
+http://77.232.131.211/Maydan/index.m3u8
+#EXTINF:-1 group-title="77.232.131.211_Санкт-Петербург",O2TV
+http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:-1 group-title="77.232.131.211_Санкт-Петербург",Rossiya24 HD
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1 group-title="77.232.131.211_Санкт-Петербург",RUTV
+http://77.232.131.211/RUTV/index.m3u8
+#EXTINF:-1 group-title="77.232.131.211_Санкт-Петербург",Sapfir HD
+http://77.232.131.211/Sapfir/index.m3u8
+#EXTINF:-1 group-title="77.232.131.211_Санкт-Петербург",TravelAdventureHD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",amediahit
+http://85.117.37.41/amediahit/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",amedipremium HD
+http://85.117.37.41/amedipremium/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",bbc HD
+http://85.117.37.41/bbc/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",cnn
+http://85.117.37.41/cnn/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",drive
+http://85.117.37.41/drive/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",dw HD
+http://85.117.37.41/dw/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",euronews
+http://85.117.37.41/euronews/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",eurosport1 HD
+http://85.117.37.41/eurosport1/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",eurosport2 HD
+http://85.117.37.41/eurosport2/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",khl
+http://85.117.37.41/khl/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",matcharena
+http://85.117.37.41/matcharena/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",matchstrana
+http://85.117.37.41/matchstrana/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",mezzo
+http://85.117.37.41/mezzo/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",muztv
+http://85.117.37.41/muztv/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",muztv
+http://85.117.37.41/muztv/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",sts
+http://85.117.37.41/sts/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",sts
+http://85.117.37.41/sts/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",sts
+http://85.117.37.41/sts/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",sts
+http://85.117.37.41/sts/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",sts
+http://85.117.37.41/sts/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",tlc HD
+http://85.117.37.41/tlc/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",tnt
+http://85.117.37.41/tnt/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",tnt4
+http://85.117.37.41/tnt4/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",traveladventure HD
+http://85.117.37.41/traveladventure/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",tv1000
+http://85.117.37.41/tv1000/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",tv1000ru
+http://85.117.37.41/tv1000ru/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",tv1000ru
+http://85.117.37.41/tv1000ru/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",tv21
+http://85.117.37.41/tv21/index.m3u8
+#EXTINF:-1 group-title="85.117.37.41_Грузия_Тбилиси",viasatsport
+http://85.117.37.41/viasatsport/index.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",5kanal
+http://85.192.10.131/hls/5kanal/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",Karusel
+http://85.192.10.131/hls/Karusel/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",Kino24Ru
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",kultura
+http://85.192.10.131/hls/kultura/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",kultura
+http://85.192.10.131/hls/kultura/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",MamonRu
+http://85.192.10.131/hls/MamonRu/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",matchtvrum9 HD
+http://85.192.10.131/hls/matchtvrum9/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",MultimaniaRu
+http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",NtvRuM9
+http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",OTR
+http://85.192.10.131/hls/OTR/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",pingvinru
+http://85.192.10.131/hls/pingvinru/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",pjatnica
+http://85.192.10.131/hls/pjatnica/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",Pro100tvRu
+http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",rentv
+http://85.192.10.131/hls/rentv/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",RossijaM9
+http://85.192.10.131/hls/RossijaM9/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",tnt
+http://85.192.10.131/hls/tnt/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",tv3
+http://85.192.10.131/hls/tv3/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",TvciRu
+http://85.192.10.131/hls/TvciRu/playlist.m3u8
+#EXTINF:-1 group-title="85.192.10.131_Москва",zvezda
+http://85.192.10.131/hls/zvezda/playlist.m3u8
+#EXTINF:-1 group-title="85.208.223.249_Кушва_Россия",ind
+http://85.208.223.249:8888/play/a007
+#EXTINF:-1 group-title="85.208.223.249_Кушва_Россия",REX
+http://85.208.223.249:8888/play/a004
+#EXTINF:-1 group-title="85.208.223.249_Кушва_Россия",a033 HD
+http://85.208.223.249:8888/play/a033
+#EXTINF:-1 group-title="85.208.223.249_Кушва_Россия",KHL HD
+http://85.208.223.249:8888/play/a00d
+#EXTINF:-1 group-title="85.208.223.249_Кушва_Россия",365
+http://85.208.223.249:8888/play/a00c
+#EXTINF:-1 group-title="85.208.223.249_Кушва_Россия",KinoUzhas
+http://85.208.223.249:8888/play/256
+#EXTINF:-1 group-title="85.208.223.249_Кушва_Россия",khl HD
+http://85.208.223.249:8888/play/777
+#EXTINF:-1 group-title="91.207.115.228_Протвино",За!ТВ
+http://91.207.115.228:5000/c22
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Таврия Херсон
+http://91.207.115.228:5000/c23
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Луганск-24
+http://91.207.115.228:5000/c26
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Soloviev Live
+http://91.207.115.228:5000/c27
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Кинопоказ
+http://91.207.115.228:5000/c28
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Золотая Коллекция
+http://91.207.115.228:5000/c29
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Дом Кино
+http://91.207.115.228:5000/c30
+#EXTINF:-1 group-title="91.207.115.228_Протвино",РОДНОЕ КИНО
+http://91.207.115.228:5000/c31
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Русский Роман
+http://91.207.115.228:5000/c32
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Кино ТВ
+http://91.207.115.228:5000/c33
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Русский Бестселлер
+http://91.207.115.228:5000/c34
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Русский Детектив
+http://91.207.115.228:5000/c35
+#EXTINF:-1 group-title="91.207.115.228_Протвино",365 Дней ТВ
+http://91.207.115.228:5000/c36
+#EXTINF:-1 group-title="91.207.115.228_Протвино",viju TV1000 русское
+http://91.207.115.228:5000/c37
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Киноужас
+http://91.207.115.228:5000/c38
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Киносемья
+http://91.207.115.228:5000/c39
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Мужское Кино
+http://91.207.115.228:5000/c40
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Наше Новое Кино
+http://91.207.115.228:5000/c41
+#EXTINF:-1 group-title="91.207.115.228_Протвино",КИНОПРЕМЬЕРА HD
+http://91.207.115.228:5000/c42
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Киноужас
+http://91.207.115.228:5000/c43
+#EXTINF:-1 group-title="91.207.115.228_Протвино",КИНОМИКС
+http://91.207.115.228:5000/c44
+#EXTINF:-1 group-title="91.207.115.228_Протвино",КИНОСВИДАНИЕ
+http://91.207.115.228:5000/c45
+#EXTINF:-1 group-title="91.207.115.228_Протвино",КИНОКОМЕДИЯ
+http://91.207.115.228:5000/c46
+#EXTINF:-1 group-title="91.207.115.228_Протвино",ИНДИЙСКОЕ КИНО
+http://91.207.115.228:5000/c47
+#EXTINF:-1 group-title="91.207.115.228_Протвино",viju TV1000
+http://91.207.115.228:5000/c48
+#EXTINF:-1 group-title="91.207.115.228_Протвино",viju TV1000 action
+http://91.207.115.228:5000/c49
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Ю ТВ
+http://91.207.115.228:5000/c50
+#EXTINF:-1 group-title="91.207.115.228_Протвино",СТС Love
+http://91.207.115.228:5000/c51
+#EXTINF:-1 group-title="91.207.115.228_Протвино",
+http://91.207.115.228:5000/c52
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Время
+http://91.207.115.228:5000/c53
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Ностальгия
+http://91.207.115.228:5000/c54
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Amedia 1
+http://91.207.115.228:5000/c55
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Amedia 2
+http://91.207.115.228:5000/c56
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Amedia Hit
+http://91.207.115.228:5000/c57
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Hollywood HD
+http://91.207.115.228:5000/c59
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Amedia Premium
+http://91.207.115.228:5000/c58
+#EXTINF:-1 group-title="91.207.115.228_Протвино",FlixSnip
+http://91.207.115.228:5000/c60
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Рыжий
+http://91.207.115.228:5000/c62
+#EXTINF:-1 group-title="91.207.115.228_Протвино",KinoLiving
+http://91.207.115.228:5000/c61
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Мульт
+http://91.207.115.228:5000/c63
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Ani
+http://91.207.115.228:5000/c64
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Unikum SD
+http://91.207.115.228:5000/c65
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Mult
+Musik&http://91.207.115.228:5000/c66
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Мультиландия
+http://91.207.115.228:5000/c67
+#EXTINF:-1 group-title="91.207.115.228_Протвино",О!
+http://91.207.115.228:5000/c68
+#EXTINF:-1 group-title="91.207.115.228_Протвино",CTC Kids HD
+http://91.207.115.228:5000/c69
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Мама
+http://91.207.115.228:5000/c70
+#EXTINF:-1 group-title="91.207.115.228_Протвино",СуперГерои
+http://91.207.115.228:5000/c71
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Da Vinci
+http://91.207.115.228:5000/c72
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Сарафан
+http://91.207.115.228:5000/c75
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Кухня
+http://91.207.115.228:5000/c74
+#EXTINF:-1 group-title="91.207.115.228_Протвино",КВН ТВ
+http://91.207.115.228:5000/c76
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Sci-Fi
+http://91.207.115.228:5000/c77
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Red
+http://91.207.115.228:5000/c78
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Black
+http://91.207.115.228:5000/c79
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Планета
+http://91.207.115.228:5000/c82
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Наука
+http://91.207.115.228:5000/c83
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Телекафе
+http://91.207.115.228:5000/c84
+#EXTINF:-1 group-title="91.207.115.228_Протвино",История
+http://91.207.115.228:5000/c85
+#EXTINF:-1 group-title="91.207.115.228_Протвино",САПФИР
+http://91.207.115.228:5000/c90
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Зоо ТВ
+http://91.207.115.228:5000/c91
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Здоровье ТВ
+http://91.207.115.228:5000/c92
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Телепутешествие
+http://91.207.115.228:5000/c93
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Big Planet
+http://91.207.115.228:5000/c94
+#EXTINF:-1 group-title="91.207.115.228_Протвино",viju Explore
+http://91.207.115.228:5000/c95
+#EXTINF:-1 group-title="91.207.115.228_Протвино",viju History
+http://91.207.115.228:5000/c96
+#EXTINF:-1 group-title="91.207.115.228_Протвино",viju Nature
+http://91.207.115.228:5000/c97
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Дикий
+http://91.207.115.228:5000/c98
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Первый канал HD
+http://91.207.115.228:5000/c99
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Россия 1 HD
+http://91.207.115.228:5000/c100
+#EXTINF:-1 group-title="91.207.115.228_Протвино",МАТЧ! HD
+http://91.207.115.228:5000/c101
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Футбол
+http://91.207.115.228:5000/c102
+#EXTINF:-1 group-title="91.207.115.228_Протвино",МАТЧ! АРЕНА HD
+http://91.207.115.228:5000/c103
+#EXTINF:-1 group-title="91.207.115.228_Протвино",МАТЧ! ИГРА HD
+http://91.207.115.228:5000/c104
+#EXTINF:-1 group-title="91.207.115.228_Протвино",МАТЧ ПРЕМЬЕР
+http://91.207.115.228:5000/c105
+#EXTINF:-1 group-title="91.207.115.228_Протвино",МАТЧ! СТРАНА HD
+http://91.207.115.228:5000/c106
+#EXTINF:-1 group-title="91.207.115.228_Протвино",МАТЧ! БОЕЦ
+http://91.207.115.228:5000/c107
+#EXTINF:-1 group-title="91.207.115.228_Протвино",KHL
+http://91.207.115.228:5000/c108
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Охота и Рыбалка
+http://91.207.115.228:5000/c109
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Авто Плюс
+http://91.207.115.228:5000/c110
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Extreme
+http://91.207.115.228:5000/c112
+#EXTINF:-1 group-title="91.207.115.228_Протвино",viju+ Sport
+http://91.207.115.228:5000/c113
+#EXTINF:-1 group-title="91.207.115.228_Протвино",МАТЧ! ФУТБОЛ 1 HD
+http://91.207.115.228:5000/c114
+#EXTINF:-1 group-title="91.207.115.228_Протвино",МАТЧ! ФУТБОЛ 2 HD
+http://91.207.115.228:5000/c115
+#EXTINF:-1 group-title="91.207.115.228_Протвино",МАТЧ! ФУТБОЛ 3 HD
+http://91.207.115.228:5000/c116
+#EXTINF:-1 group-title="91.207.115.228_Протвино",BRIDGE
+http://91.207.115.228:5000/c117
+#EXTINF:-1 group-title="91.207.115.228_Протвино",BRIDGE Russkiy Hit
+http://91.207.115.228:5000/c118
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Europa Plus TV
+http://91.207.115.228:5000/c119
+#EXTINF:-1 group-title="91.207.115.228_Протвино",BRIDGE Russkiy Hit
+http://91.207.115.228:5000/c120
+#EXTINF:-1 group-title="91.207.115.228_Протвино",ТНТ Music
+http://91.207.115.228:5000/c121
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Ru TV HD
+http://91.207.115.228:5000/c122
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Музыка Первого
+http://91.207.115.228:5000/c123
+#EXTINF:-1 group-title="91.207.115.228_Протвино",ЖАРА
+http://91.207.115.228:5000/c126
+#EXTINF:-1 group-title="91.207.115.228_Протвино",МУЗЫКА LIVE
+http://91.207.115.228:5000/c127
+#EXTINF:-1 group-title="91.207.115.228_Протвино",
+http://91.207.115.228:5000/c128
+#EXTINF:-1 group-title="91.207.115.228_Протвино",360 Novosti
+http://91.207.115.228:5000/c129
+#EXTINF:-1 group-title="91.207.115.228_Протвино",RT DOC HD
+http://91.207.115.228:5000/c130
+#EXTINF:-1 group-title="91.207.115.228_Протвино",SHOT TV
+http://91.207.115.228:5000/c131
+#EXTINF:-1 group-title="91.207.115.228_Протвино",ЗВЕЗДА ПЛЮС
+http://91.207.115.228:5000/c132
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Кто есть кто
+http://91.207.115.228:5000/c133
+#EXTINF:-1 group-title="91.207.115.228_Протвино",
+http://91.207.115.228:5000/c134
+#EXTINF:-1 group-title="91.207.115.228_Протвино",МИР-24
+http://91.207.115.228:5000/c135
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Телеканал 360HD
+http://91.207.115.228:5000/c136
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Vmeste RF
+http://91.207.115.228:5000/c137
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Союз
+http://91.207.115.228:5000/c138
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Красная Линия
+http://91.207.115.228:5000/c139
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Big Asia
+http://91.207.115.228:5000/c140
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Беларусь-24
+http://91.207.115.228:5000/c141
+#EXTINF:-1 group-title="91.207.115.228_Протвино",THT4
+http://91.207.115.228:5000/c142
+#EXTINF:-1 group-title="91.207.115.228_Протвино",viju+ Comedy HD
+http://91.207.115.228:5000/c143
+#EXTINF:-1 group-title="91.207.115.228_Протвино",viju+ Megahit HD
+http://91.207.115.228:5000/c144
+#EXTINF:-1 group-title="91.207.115.228_Протвино",viju+ Premiere HD
+http://91.207.115.228:5000/c145
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Discovery Chennel HD
+http://91.207.115.228:5000/c146
+#EXTINF:-1 group-title="91.207.115.228_Протвино", HD
+http://91.207.115.228:5000/c147
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Travel EMEA HD
+http://91.207.115.228:5000/c149
+#EXTINF:-1 group-title="91.207.115.228_Протвино", HD
+http://91.207.115.228:5000/c150
+#EXTINF:-1 group-title="91.207.115.228_Протвино",TLC HD
+http://91.207.115.228:5000/c151
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Eurosport-2 HD
+http://91.207.115.228:5000/c154
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Eurosport 1 NEE HD
+http://91.207.115.228:5000/c153
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Первый Республиканский
+http://91.207.115.228:5000/c155
+#EXTINF:-1 group-title="91.207.115.228_Протвино",THT HD
+http://91.207.115.228:5000/c157
+#EXTINF:-1 group-title="91.207.115.228_Протвино",HDL
+http://91.207.115.228:5000/c158
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Домашние Животные
+http://91.207.115.228:5000/c159
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Evrokino SD
+http://91.207.115.228:5000/c160
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Солнце
+http://91.207.115.228:5000/c167
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Комедия
+http://91.207.115.228:5000/c168
+#EXTINF:-1 group-title="91.207.115.228_Протвино",NST
+http://91.207.115.228:5000/c169
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Иллюзион+
+http://91.207.115.228:5000/c170
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Cinema
+http://91.207.115.228:5000/c172
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Retro
+http://91.207.115.228:5000/c174
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Охота и Рыбалка
+http://91.207.115.228:5000/c173
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Psihologiya 21
+http://91.207.115.228:5000/c175
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Usadba
+http://91.207.115.228:5000/c176
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Zoopark
+http://91.207.115.228:5000/c177
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Voprosi i otveti
+http://91.207.115.228:5000/c178
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Zdorovoe TV
+http://91.207.115.228:5000/c179
+#EXTINF:-1 group-title="91.207.115.228_Протвино",2X2
+http://91.207.115.228:5000/c180
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Авто-24
+http://91.207.115.228:5000/c181
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Drive
+http://91.207.115.228:5000/c182
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Tochka Otriva SD
+http://91.207.115.228:5000/c183
+#EXTINF:-1 group-title="91.207.115.228_Протвино",Победа!
+http://91.207.115.228:5000/c184
+#EXTINF:-1 group-title="91.207.115.228_Протвино",ДОРАМА
+http://91.207.115.228:5000/c185
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",2
+http://91.221.252.12:82/tv2
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",3 HD
+http://91.221.252.12:82/tv3
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",1
+http://91.221.252.12:82/tv1
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",4
+http://91.221.252.12:82/tv4
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",6
+http://91.221.252.12:82/tv6
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",5
+http://91.221.252.12:82/tv5
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",7
+http://91.221.252.12:82/tv7
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",8 HD
+http://91.221.252.12:82/tv8
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",14 Домашний
+http://91.221.252.12:82/tv9
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",17 Звезда
+http://91.221.252.12:82/tv10
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",11
+http://91.221.252.12:82/tv11
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",12
+http://91.221.252.12:82/tv12
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",13
+http://91.221.252.12:82/tv13
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",14
+http://91.221.252.12:82/tv14
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",15
+http://91.221.252.12:82/tv15
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",16
+http://91.221.252.12:82/tv16
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",17
+http://91.221.252.12:82/tv17
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",18
+http://91.221.252.12:82/tv18
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",02 РОССИЯ-1
+http://91.221.252.12:82/tv19
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",20
+http://91.221.252.12:82/tv20
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",21
+http://91.221.252.12:82/tv21
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",22
+http://91.221.252.12:82/tv22
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",23
+http://91.221.252.12:82/tv23
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",24
+http://91.221.252.12:82/tv24
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",25
+http://91.221.252.12:82/tv25
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",360 Новости
+http://91.221.252.12:82/tv27
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",360
+http://91.221.252.12:82/tv26
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv28
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv30
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Солнце
+http://91.221.252.12:82/tv31
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",В гостях у сказки
+http://91.221.252.12:82/tv33
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Детский мир
+http://91.221.252.12:82/tv34
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Мульт
+http://91.221.252.12:82/tv35
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Мультиландия
+http://91.221.252.12:82/tv36
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv37
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv38
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",СуперГерои
+http://91.221.252.12:82/tv39
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",СТС Kids
+http://91.221.252.12:82/tv40
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Animal Planet HD
+http://91.221.252.12:82/tv41
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",43
+http://91.221.252.12:82/tv43
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Terra
+http://91.221.252.12:82/tv44
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",TLC HD
+http://91.221.252.12:82/tv45
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",viju History
+http://91.221.252.12:82/tv46
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",viju Nature
+http://91.221.252.12:82/tv47
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Дикая охота HD
+http://91.221.252.12:82/tv49
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Дикая рыбалка HD
+http://91.221.252.12:82/tv50
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",51
+http://91.221.252.12:82/tv51
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Мужской
+http://91.221.252.12:82/tv52
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Охота и Рыбалка
+http://91.221.252.12:82/tv53
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",54 HD
+http://91.221.252.12:82/tv54
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",56
+http://91.221.252.12:82/tv56
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Сарафан
+http://91.221.252.12:82/tv55
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",57
+http://91.221.252.12:82/tv57
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",59
+http://91.221.252.12:82/tv59
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Усадьба-ТВ
+http://91.221.252.12:82/tv58
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",60
+http://91.221.252.12:82/tv60
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",viju Action
+http://91.221.252.12:82/tv62
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",TV XXI
+http://91.221.252.12:82/tv61
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",viju+ Comedy HD
+http://91.221.252.12:82/tv63
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",viju TV1000
+http://91.221.252.12:82/tv64
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",viju+ Megahit HD
+http://91.221.252.12:82/tv65
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",viju+ Premiere HD
+http://91.221.252.12:82/tv66
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",viju+ Serial HD
+http://91.221.252.12:82/tv67
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",viju Русское Кино
+http://91.221.252.12:82/tv68
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Дом Кино
+http://91.221.252.12:82/tv70
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Еврокино
+http://91.221.252.12:82/tv71
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Иллюзион +
+http://91.221.252.12:82/tv72
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv73
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Кино ТВ HD
+http://91.221.252.12:82/tv74
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv75
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",КИНОПРЕМЬЕРА HD
+http://91.221.252.12:82/tv77
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv76
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv78
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv79
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv80
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv81
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Любимое кино
+http://91.221.252.12:82/tv83
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv82
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Мир сериала HD
+http://91.221.252.12:82/tv84
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Мосфильм
+http://91.221.252.12:82/tv85
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",НТВ Сериал
+http://91.221.252.12:82/tv86
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",НТВ Хит
+http://91.221.252.12:82/tv87
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Победа
+http://91.221.252.12:82/tv88
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv89
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv90
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Русский Бестселлер
+http://91.221.252.12:82/tv91
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Русский Детектив
+http://91.221.252.12:82/tv92
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Русский Иллюзион
+http://91.221.252.12:82/tv93
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",95
+http://91.221.252.12:82/tv95
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Русский Роман
+http://91.221.252.12:82/tv94
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",96
+http://91.221.252.12:82/tv96
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",98 HD
+http://91.221.252.12:82/tv98
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",97
+http://91.221.252.12:82/tv97
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",102
+http://91.221.252.12:82/tv102
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",02 РОССИЯ-1
+http://91.221.252.12:82/tv100
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",ТНТ Music
+http://91.221.252.12:82/tv101
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",EUROSPORT 1 HD
+http://91.221.252.12:82/tv104
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Шансон ТВ
+http://91.221.252.12:82/tv103
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",EUROSPORT 2 HD
+http://91.221.252.12:82/tv105
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",KHL
+http://91.221.252.12:82/tv106
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv107
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",
+http://91.221.252.12:82/tv108
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",МАТЧ! ФУТБОЛ 1 HD
+http://91.221.252.12:82/tv111
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",109
+http://91.221.252.12:82/tv109
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",МАТЧ! БОЕЦ
+http://91.221.252.12:82/tv110
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",МАТЧ! ФУТБОЛ 3 HD
+http://91.221.252.12:82/tv113
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",МАТЧ! ФУТБОЛ 2 HD
+http://91.221.252.12:82/tv112
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",МАТЧ ПРЕМЬЕР HD
+http://91.221.252.12:82/tv114
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",116
+http://91.221.252.12:82/tv116
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",Футбол
+http://91.221.252.12:82/tv115
+#EXTINF:-1 group-title="91.221.252.12_Горловка_хохлы",117
+http://91.221.252.12:82/tv117
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Amedia Hit
+http://93.84.105.184:443/amediahit
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Amedia
+http://93.84.105.184:443/amediasd
+#EXTINF:-1 group-title="93.84.105.184_Гродно",belarus1hd HD
+http://93.84.105.184:443/belarus1hd
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Беларусь 2 HD
+http://93.84.105.184:443/belarus2hd
+#EXTINF:-1 group-title="93.84.105.184_Гродно",belarus5hd
+http://93.84.105.184:443/belarus5hd
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Da Vinci Learning
+http://93.84.105.184:443/davinci
+#EXTINF:-1 group-title="93.84.105.184_Гродно",а?аОаМаАб?аНаИаЙ I
+http://93.84.105.184:443/domashni
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Dom Kino
+http://93.84.105.184:443/domkino
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Hollywood SD
+http://93.84.105.184:443/hollywoodsd
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Infochannel HD
+http://93.84.105.184:443/info
+#EXTINF:-1 group-title="93.84.105.184_Гродно",МИР HD
+http://93.84.105.184:443/mirhd
+#EXTINF:-1 group-title="93.84.105.184_Гродно",а?а?аЏ а?а?а?а?а?аЂа?
+http://93.84.105.184:443/myplanet
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Наука 2.0
+http://93.84.105.184:443/nauka
+#EXTINF:-1 group-title="93.84.105.184_Гродно",НТВ-Беларусь SD
+http://93.84.105.184:443/ntvbelarussd
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Nick Jr.
+http://93.84.105.184:443/O
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Ocean TV
+http://93.84.105.184:443/oceantv
+#EXTINF:-1 group-title="93.84.105.184_Гродно",ОНТ HD
+http://93.84.105.184:443/onthd
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Перец I
+http://93.84.105.184:443/perets
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Победа
+http://93.84.105.184:443/pobeda
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Ретро
+http://93.84.105.184:443/retro
+#EXTINF:-1 group-title="93.84.105.184_Гродно",РТР-Беларусь HD
+http://93.84.105.184:443/rtrbelarushd
+#EXTINF:-1 group-title="93.84.105.184_Гродно",СТВ HD
+http://93.84.105.184:443/stvhd
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Telecafe
+http://93.84.105.184:443/telecafe
+#EXTINF:-1 group-title="93.84.105.184_Гродно",Viju+ Premiere HD
+http://93.84.105.184:443/vippremiere
+#EXTINF:-1 group-title="93.170.254.17_Серебряные Пруды",Kinomiks
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",1HD
+http://94.230.128.107:8080/1HD/video.m3u8
+#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",5_kanal
+http://94.230.128.107:8080/5_kanal/video.m3u8
+#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",CTC
+http://94.230.128.107:8080/CTC/video.m3u8
+#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",Dorama
+http://94.230.128.107:8080/Dorama/video.m3u8
+#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",Friday
+http://94.230.128.107:8080/Friday/video.m3u8
+#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",MIR
+http://94.230.128.107:8080/MIR/video.m3u8
+#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",TB3
+http://94.230.128.107:8080/TB3/video.m3u8
+#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",THT
+http://94.230.128.107:8080/THT/video.m3u8
+#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",VHS HD
+http://94.230.128.107:8080/VHS/video.m3u8
+#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",Zvezda
+http://94.230.128.107:8080/Zvezda/video.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",5kanal
+http://vod.tuva.ru/5kanal/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",eurokino
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",friday
+http://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",karusel
+http://vod.tuva.ru/karusel/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",kinotv
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",kultura
+http://vod.tuva.ru/kultura/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",mir
+http://vod.tuva.ru/mir/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",muztv
+http://vod.tuva.ru/muztv/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",myplanet
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",nauka2
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",nst
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",ntv
+http://vod.tuva.ru/ntv/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",ort
+http://vod.tuva.ru/ort/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",otp
+http://vod.tuva.ru/otp/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",ovaa HD
+http://vod.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",rentv
+http://vod.tuva.ru/rentv/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",rossia1
+http://vod.tuva.ru/rossia1/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",rossia24
+http://vod.tuva.ru/rossia24/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",rusroman
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",spas
+http://vod.tuva.ru/spas/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",sts
+http://vod.tuva.ru/sts/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",tnt
+http://vod.tuva.ru/tnt/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",tuva24
+http://vod.tuva.ru/tuva24/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",tv3
+http://vod.tuva.ru/tv3/index.m3u8
+#EXTINF:-1 group-title="94.230.250.140_Кызыл",zvezda
+http://vod.tuva.ru/zvezda/index.m3u8
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",01 ПЕРВЫЙ КАНАЛ
+http://95.47.155.244:8001/play/a001
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",02 РОССИЯ-1
+http://95.47.155.244:8001/play/a002
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",03 МАТЧ!
+http://95.47.155.244:8001/play/a003
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",04 НТВ
+http://95.47.155.244:8001/play/a004
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",05 ПЯТЫЙ КАНАЛ
+http://95.47.155.244:8001/play/a005
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",06 РОССИЯ-К
+http://95.47.155.244:8001/play/a006
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",07 РОССИЯ-24
+http://95.47.155.244:8001/play/a007
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",08 КАРУСЕЛЬ
+http://95.47.155.244:8001/play/a008
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",09 ОТР
+http://95.47.155.244:8001/play/a009
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",10 ТВ Центр
+http://95.47.155.244:8001/play/a010
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",12 Спас
+http://95.47.155.244:8001/play/a012
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",11 РЕН ТВ
+http://95.47.155.244:8001/play/a011
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",13 СТС
+http://95.47.155.244:8001/play/a013
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",14 Домашний
+http://95.47.155.244:8001/play/a014
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",15 ТВ3
+http://95.47.155.244:8001/play/a015
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",16 Пятница
+http://95.47.155.244:8001/play/a016
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",17 Звезда
+http://95.47.155.244:8001/play/a017
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",18 МИР
+http://95.47.155.244:8001/play/a018
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",19 ТНТ
+http://95.47.155.244:8001/play/a019
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",20 МУЗ ТВ
+http://95.47.155.244:8001/play/a020
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",21 РТС Хакасия HD
+http://95.47.155.244:8001/play/a022
+#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",Юг Сибири HD
+http://95.47.155.244:8001/play/a023
