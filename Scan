@@ -3589,3 +3589,55 @@ http://213.169.39.30:5262
 http://213.169.39.30:5269
 #EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария",XY Plus
 http://213.169.39.30:5272
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.1:1234
+udp://@239.195.32.1:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.2:1234
+udp://@239.195.32.2:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.3:1234
+udp://@239.195.32.3:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.4:1234
+udp://@239.195.32.4:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.5:1234
+udp://@239.195.32.5:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.7:1234
+udp://@239.195.32.7:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.8:1234
+udp://@239.195.32.8:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.10:1234
+udp://@239.195.32.10:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.11:1234
+udp://@239.195.32.11:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.12:1234
+udp://@239.195.32.12:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.13:1234
+udp://@239.195.32.13:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.14:1234
+udp://@239.195.32.14:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.15:1234
+udp://@239.195.32.15:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.17:1234
+udp://@239.195.32.17:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.18:1234
+udp://@239.195.32.18:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.19:1234
+udp://@239.195.32.19:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.20:1234
+udp://@239.195.32.20:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.32:1234
+udp://@239.195.32.32:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.54:1234
+udp://@239.195.32.54:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.62:1234
+udp://@239.195.32.62:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.93:1234
+udp://@239.195.32.93:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.32.175:1234
+udp://@239.195.32.175:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.41.1:1234
+udp://@239.195.41.1:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.41.2:1234
+udp://@239.195.41.2:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.41.3:1234
+udp://@239.195.41.3:1234
+#EXTINF:-1 group-title="Bizbi",канал-udp://@239.195.41.22:1234
+udp://@239.195.41.22:1234
