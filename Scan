@@ -2709,25 +2709,5 @@ https://s70378.cdn.ngenix.net/vremia/2/index.m3u8
 https://s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
 #EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/zoopark.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zoopark",ZooПарк
 https://s70378.cdn.ngenix.net/zoopark/2/index.m3u8
-#EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария",ТВ-1000 Русское кино
-http://213.169.39.30:5006
-#EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария" tvg-logo="http://epg.one/img2/2324.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2324",Dorcel TV
-http://213.169.39.30:5020
-#EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария" tvg-logo="https://veranzo.ru/other/icons/Private HD.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10225",Private
-http://213.169.39.30:5036
-#EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария" tvg-logo="../Channel/Logo/Blue Hustler.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_hustler-tv",HUstler TV
-http://213.169.39.30:5115
-#EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария",CTC Kids
-http://213.169.39.30:5240
-#EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария",Current Time
-http://213.169.39.30:5241
-#EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария",Perets Int.
-http://213.169.39.30:5261
-#EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария" tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rybalka-i-oxota",Рыбалка и охота
-http://213.169.39.30:5262
-#EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария" tvg-logo="https://iptvx.one/picons/vivid-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_vivid-tv",Vivid TV
-http://213.169.39.30:5269
-#EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария",XY Plus
-http://213.169.39.30:5272
 #EXTINF:-1 group-title="178.163.5.14_udp_Самара" tvg-logo="https://iptvx.one/picons/russky-ekstrim.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_russky-ekstrim",Русский экстрим
 http://178.163.5.14:4022/udp/234.0.0.173:2000
