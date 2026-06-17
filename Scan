@@ -1819,85 +1819,83 @@ http://178.163.5.14:4022/udp/234.0.0.13:2000
 http://178.163.5.14:4022/udp/234.0.0.12:2000
 #EXTINF:-1 group-title="178.163.5.14_udp_Самара" tvg-logo="http://epg.one/img2/2483.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2483",Дикая охота HD
 http://178.163.5.14:4022/udp/234.0.0.11:2000
-#EXTINF:-1 group-title="178.163.5.14_udp_Самара" tvg-logo="https://iptvx.one/picons/russky-ekstrim.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_russky-ekstrim",Русский экстрим
-http://178.163.5.14:4022/udp/234.0.0.173:2000
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2754",Cinema
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2754.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2754",Cinema
 http://185.46.16.239:8000/Cinema
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",04 HTB
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv",НТВ
 http://185.46.16.239:8000/NTV
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/Ani.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2011",Ani
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2011.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2011",Ani
 http://185.46.16.239:8000/Ani
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",Unikum
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/66.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_66",Уникум
 http://185.46.16.239:8000/Detskiy
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/DocuBox.png",Doctor
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/16.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_16",Доктор
 http://185.46.16.239:8000/Doktor
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",14 Домашний
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/304.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний
 http://185.46.16.239:8000/Domashniy
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",Drive
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2443.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2443",Драйв
 http://185.46.16.239:8000/Drayv
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",035 Бокс ТВ
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2285.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2285",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",060 Кинокомедия
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/821.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_821",Кинокомедия
 http://185.46.16.239:8000/Fox_HD
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",061 КиноМикс
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/644.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_644",Киномикс
 http://185.46.16.239:8000/Fox_Life_HD
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",Illuzion +
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2403.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2403",Иллюзион+
 http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/History.png",ISTORIA
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/1036.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1036",История
 http://185.46.16.239:8000/Istoriya
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",08 КАРУСЕЛЬ
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/740.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
 http://185.46.16.239:8000/Karusel
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kino-tv-pl",KINO TV
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/1037.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1037",Кино ТВ
 http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2003",МАТЧ! АРЕНА
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2003.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2003",Матч! Арена
 http://185.46.16.239:8000/Match_Arena
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2050",Матч! Игра
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2050.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2050",Матч! Игра
 http://185.46.16.239:8000/Match_Igra
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2042",Матч! Страна
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2042.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2042",Матч! Страна
 http://185.46.16.239:8000/Match_Nash_Sport
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",03 Матч-ТВ
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://iptvx.one/picons/match-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_match-tv",Матч! ТВ
 http://185.46.16.239:8000/Match_TV
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",18 МИР
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/726.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир
 http://185.46.16.239:8000/Mir
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",TLUM HD
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/1332.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1332",Мульт HD
 http://185.46.16.239:8000/Mir_24
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",Mult
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/1332.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1332",Мульт
 http://185.46.16.239:8000/Mult
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",20 Муз-ТВ
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/897.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_897",Муз-ТВ
 http://185.46.16.239:8000/Muz_TV
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_680",ТНТ Music
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/680.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_680",FON music
 http://185.46.16.239:8000/Nashe_TV
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/Супер.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2239",Супергерои
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://veranzo.ru/other/icons/СуперГерои.png" tvg-id="d09336db60acee31f19aef3ee307fef6_8287",Супер Герои
 http://185.46.16.239:8000/National_Geographic_HD
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",Nayka
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://iptvx.one/picons/nauka-20.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nauka-20",Наука 2.0
 http://185.46.16.239:8000/Nauka_2.0
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_485",НАШЕ НОВОЕ КИНО
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/485.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_485",Наше новое кино
 http://185.46.16.239:8000/Nickelodeon
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",09 ОТР
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/1000.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1000",ОТР
 http://185.46.16.239:8000/OTR
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",075 365 дней ТВ
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2423.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2423",365 дней ТВ
 http://185.46.16.239:8000/Paramount_Comedy
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/Animal Planet.png",Planeta HD
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/675.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_675",Моя Планета HD
 http://185.46.16.239:8000/Planeta_HD
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",16 Пятница
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://iptvx.one/picons/piatnica.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica",Пятница!
 http://185.46.16.239:8000/Pyatnitsa
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",02 Россия-1
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rossia1",Россия 1
 http://185.46.16.239:8000/Rossiya_1
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",07 Россия-24
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/1683.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1683",Россия-24
 http://185.46.16.239:8000/Rossiya_24
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",06 Россия К
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/187.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_187",Россия К
 http://185.46.16.239:8000/Rossiya_K
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",Russkij illuzion
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/53.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_53",Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/SongTV Russia.png",Russkiy roman
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/401.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_401",Русский Роман
 http://185.46.16.239:8000/Russkiy_roman
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",Shanson TV Int.
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://iptvx.one/picons/shanson-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_shanson-tv",Шансон-TB
 http://185.46.16.239:8000/Shanson
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/Союз.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2448",Союз
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2448.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2448",Союз
 http://185.46.16.239:8000/Soyuz
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/12 Канал (Омск).png",12 СПАС
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2141.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2141",Спас
 http://185.46.16.239:8000/Spas
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",15 TB3
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/698.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_698",ТВ-3
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/1011.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1011",viju+ Comedy HD
 http://185.46.16.239:8000/VIP_Comedy
@@ -1905,29 +1903,25 @@ http://185.46.16.239:8000/VIP_Comedy
 http://185.46.16.239:8000/VIP_Megahit
 #EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/1013.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1013",viju+ Premiere HD
 http://185.46.16.239:8000/VIP_Premiere
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",Evrokino
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/352.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_352",Еврокино
 http://185.46.16.239:8000/Yevrokino
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",Zhivaja Planeta
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2432.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2432",Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",17 Звезда
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/405.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
 http://185.46.16.239:8000/Zvezda
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/BRIDGE TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_151",BRIDGE
-http://185.46.16.239:8000/Bridge_TV
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",13 СТС
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/79.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС
 http://185.46.16.239:8000/STS
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк",19 ТНТ
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt",ТНТ
 http://185.46.16.239:8000/TNT
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/11 канал (Пенза).png",11 PEH-TB
+#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rentv",Рен ТВ
 http://185.46.16.239:8000/REN_TV
-#EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png",BRIDGE Russkiy Hit
-http://185.46.16.239:8000/RUSONG_TV
-#EXTINF:-1 group-title="185.57.68.14_Армавир_Армения" tvg-logo="../Channel/Logo/1HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4037",1
+#EXTINF:-1 group-title="185.57.68.14_Армавир_Армения" tvg-logo="http://epg.one/img2/2298.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2298",Загородная Жизнь
 http://185.57.68.14:80/40/mpegts
-#EXTINF:-1 group-title="185.57.68.14_Армавир_Армения" tvg-logo="../Channel/Logo/360°.png",3
+#EXTINF:-1 group-title="185.57.68.14_Армавир_Армения",Relax Костёр
 http://185.57.68.14:80/232/mpegts
 #EXTINF:-1 group-title="185.57.68.14_Армавир_Армения" tvg-logo="../Channel/Logo/Т24.png",4
 http://185.57.68.14:80/233/mpegts
-#EXTINF:-1 group-title="185.57.68.14_Армавир_Армения" tvg-logo="../Channel/Logo/365 Дней.png",5
+#EXTINF:-1 group-title="185.57.68.14_Армавир_Армения",ARM Toon TV
 http://185.57.68.14:80/236/mpegts
 #EXTINF:-1 group-title="185.57.68.14_Армавир_Армения" tvg-logo="../Channel/Logo/360°.png",6
 http://185.57.68.14:80/237/mpegts
@@ -1935,13 +1929,13 @@ http://185.57.68.14:80/237/mpegts
 http://185.57.68.14:80/240/mpegts
 #EXTINF:-1 group-title="185.57.68.14_Армавир_Армения" tvg-logo="../Channel/Logo/MTV 80s.png",8
 http://185.57.68.14:80/255/mpegts
-#EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",40
+#EXTINF:-1 group-title="185.57.68.33_Армавир_Армения" tvg-logo="http://epg.one/img2/2298.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2298",Загородная Жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",233 HD
 http://185.57.68.33/233/index.m3u8
-#EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",232 HD
+#EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",Relax Костёр
 http://185.57.68.33/232/index.m3u8
-#EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",236 HD
+#EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",ARM Toon TV
 http://185.57.68.33/236/index.m3u8
 #EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",237 HD
 http://185.57.68.33/237/index.m3u8
@@ -1949,895 +1943,771 @@ http://185.57.68.33/237/index.m3u8
 http://185.57.68.33/240/index.m3u8
 #EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",255 HD
 http://185.57.68.33/255/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/1HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4037",1hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/4037.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4037",1HD Music Television
 http://185.78.112.16:8077/1hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/2x2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/323.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
 http://185.78.112.16:8077/2x2/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",360tv_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_360-podmoskovie",360° Подмосковье HD
 http://185.78.112.16:8077/360tv_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/365 Дней.png",365_dnej
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2423.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2423",365 дней ТВ
 http://185.78.112.16:8077/365_dnej/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/7tv.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10026",7tv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/7tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_7tv",7 ТВ
 http://185.78.112.16:8077/7tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",8kanal
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/8kanal-ru.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_8kanal-ru",8 канал
 http://185.78.112.16:8077/8kanal/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Aiva.png",aiva_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2837.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2837",AIVA HD
 http://185.78.112.16:8077/aiva_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Amedia Hit.png",amedia
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1371.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1371",Amedia 1
 http://185.78.112.16:8077/amedia/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Amedia Premium HD.png",amedia_hit_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2007.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2007",Amedia Hit HD
 http://185.78.112.16:8077/amedia_hit_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",amedia_premium_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1372.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1372",Amedia Premium HD
 http://185.78.112.16:8077/amedia_premium_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Amedia Hit.png",amedia-2
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2492.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2492",Amedia 2
 http://185.78.112.16:8077/amedia-2/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Ani.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2011",ani
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2011.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2011",Ani
 http://185.78.112.16:8077/ani/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Barely legal.png",arena
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2003.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2003",Матч! Арена
 http://185.78.112.16:8077/arena/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",arena_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2003.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2003",Матч! Арена HD
 http://185.78.112.16:8077/arena_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",arsenal_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2768.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2768",Арсенал HD
 http://185.78.112.16:8077/arsenal_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Kvartal tv.png",art
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/9080.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9080",Арт
 http://185.78.112.16:8077/art/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2600.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2600",atv HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://isp-vrn.ru/i/logos/amos_logo1.2023-02-22_23-27-12.png",АТВ Амос
 http://185.78.112.16:8077/atv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",avto_plus
-http://185.78.112.16:8077/avto_plus/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",avto24
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2008.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2008",Авто 24
 http://185.78.112.16:8077/avto24/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",black_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/935.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_935",.black
 http://185.78.112.16:8077/black_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",big_planet_hd HD
-http://185.78.112.16:8077/big_planet_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",blokbaster_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2832.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2832",Блокбастер HD
 http://185.78.112.16:8077/blokbaster_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",boks-tv HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2285.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2285",Бокс ТВ
 http://185.78.112.16:8077/boks-tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Bridge TV Hits.png",bridge_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/bridge-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bridge-hd",Bridge TV Deluxe
 http://185.78.112.16:8077/bridge_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/BRIDGE TV.png",bridge-tv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/151.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_151",Bridge TV
 http://185.78.112.16:8077/bridge-tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Deutsche Welle.png",che
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1598.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1598",Че!
 http://185.78.112.16:8077/che/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Star Cinema HD.png",cinema_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2754.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2754",Cinema HD
 http://185.78.112.16:8077/cinema_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/vip comedy.png",comedy
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1620.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1620",Русская комедия
 http://185.78.112.16:8077/comedy/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",crimea24
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/krym24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_krym24",Крым-24
 http://185.78.112.16:8077/crimea24/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/CCTV-4.png",ctv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2400.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2400",Центральное телевидение
 http://185.78.112.16:8077/ctv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/MTV Dance.png",dange
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2024.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2024",Bridge TV Hits
 http://185.78.112.16:8077/dange/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",detskiy
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/66.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_66",Уникум
 http://185.78.112.16:8077/detskiy/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Disney.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_150",disney
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/7669.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7669",Солнце
 http://185.78.112.16:8077/disney/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/DocuBox.png",doctor HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/16.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_16",Доктор
 http://185.78.112.16:8077/doctor/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",dom_kino HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/834.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_834",Дом кино
 http://185.78.112.16:8077/dom_kino/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",domashniy
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/304.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний
 http://185.78.112.16:8077/domashniy/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",domashniy_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/304.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний HD
 http://185.78.112.16:8077/domashniy_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",eda_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/7635.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7635",FoodTime
 http://185.78.112.16:8077/eda_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",eda_hd HD
-http://185.78.112.16:8077/eda_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Europa Plus TV.png",europa-plus-tv HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/681.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_681",Europa Plus TV
 http://185.78.112.16:8077/europa-plus-tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/FAN.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2359",fan HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2359.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2359",FAN HD
 http://185.78.112.16:8077/fan/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Fashion tv.png",fashion_one_hd HD
-http://185.78.112.16:8077/fashion_one_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",football HD
-http://185.78.112.16:8077/football/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",football1_hd HD
-http://185.78.112.16:8077/football1_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",football2_hd HD
-http://185.78.112.16:8077/football2_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",football3_hd HD
-http://185.78.112.16:8077/football3_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/FOX.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1031",fox
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/7314.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7314",Кинеко
 http://185.78.112.16:8077/fox/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Fox Life.png",fox_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/7314.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7314",Кинеко
 http://185.78.112.16:8077/fox_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",fox_life_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/7315.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7315",Сапфир
 http://185.78.112.16:8077/fox_life_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Fox Life.png",fox-life
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/7315.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7315",Сапфир
 http://185.78.112.16:8077/fox-life/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",glazami_turista_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2508.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2508",Глазами туриста HD
 http://185.78.112.16:8077/glazami_turista_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",huzur_tv HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2478.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2478",Хузур ТВ
 http://185.78.112.16:8077/huzur_tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",indiya
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/798.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_798",Индийское кино
 http://185.78.112.16:8077/indiya/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/History 2.png",istoriya
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1036.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1036",История
 http://185.78.112.16:8077/istoriya/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",izvestiya HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2271.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2271",Известия HD
 http://185.78.112.16:8077/izvestiya/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",jivi HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/zhivi.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zhivi",Живи HD
 http://185.78.112.16:8077/jivi/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",kaleydoskop
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2761.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2761",Калейдоскоп ТВ
 http://185.78.112.16:8077/kaleydoskop/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",karusel
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/740.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
 http://185.78.112.16:8077/karusel/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2048.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2048",khl HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/kxl.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kxl",КХЛ
 http://185.78.112.16:8077/khl/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",khl_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1038.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1038",KHL Prime
 http://185.78.112.16:8077/khl_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Kino 24.png",kino_tv_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1037.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1037",Кино ТВ HD
 http://185.78.112.16:8077/kino_tv_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Kino 24.png",kinohit HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/542.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_542",Кинохит HD
 http://185.78.112.16:8077/kinohit/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Kino 24.png",kinojam1 HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/4466.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4466",Kinojam 1 HD
 http://185.78.112.16:8077/kinojam1/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Kino 24.png",kinojam2 HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/4467.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4467",Kinojam 2 HD
 http://185.78.112.16:8077/kinojam2/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",kinoliving_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/kinoliving.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kinoliving",KinoLiving HD
 http://185.78.112.16:8077/kinoliving_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Kino 24.png",kinomix HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/644.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_644",Киномикс HD
 http://185.78.112.16:8077/kinomix/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Kino 24.png",kinopokaz
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/kinopokaz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kinopokaz",Кинопоказ
 http://185.78.112.16:8077/kinopokaz/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Kino 24.png",kinosat
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2407.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2407",Киносат
 http://185.78.112.16:8077/kinosat/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Kino 24.png",kinosemya HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/987.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_987",Киносемья HD
 http://185.78.112.16:8077/kinosemya/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",kinosvidanie HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/462.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_462",Киносвидание HD
 http://185.78.112.16:8077/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Kino 24.png",kino-tv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1037.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1037",Кино ТВ
 http://185.78.112.16:8077/kino-tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Kino 24.png",kinoujas
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2493.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2493",Киноужас
 http://185.78.112.16:8077/kinoujas/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",komediya HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/821.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_821",Кинокомедия HD
 http://185.78.112.16:8077/komediya/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",kto-est-kto
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2456.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2456",Кто есть кто
 http://185.78.112.16:8077/kto-est-kto/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",KTV HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://storage.myseldon.com/yugo/046441C2CD3EF3C40D8E07C9388CFF66.png",KTV Кизилюрт HD
 http://185.78.112.16:8077/KTV/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",kuhnya
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/614.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_614",Кухня ТВ
 http://185.78.112.16:8077/kuhnya/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",kvn_tv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/kvn-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kvn-tv",КВН-ТВ
 http://185.78.112.16:8077/kvn_tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/O-la-la.png",la-minor
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/la-minor.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_la-minor",Музыка Live
 http://185.78.112.16:8077/la-minor/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",ldpr
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2465.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2465",ЛДПР ТВ
 http://185.78.112.16:8077/ldpr/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/FoxLife.png",life78
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/78.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_78kanal",Канал 78
 http://185.78.112.16:8077/life78/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",lot HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/lot-47.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_lot-47",Лен ТВ 24 HD
 http://185.78.112.16:8077/lot/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Luxury.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2759",luxury
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",magnat магаз
 http://185.78.112.16:8077/luxury/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Animal Planet.png",malish HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://veranzo.ru/other/icons/СуперГерои.png" tvg-id="d09336db60acee31f19aef3ee307fef6_8287",Супер Герои
 http://185.78.112.16:8077/malish/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",mama
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/618.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_618",Мама
 http://185.78.112.16:8077/mama/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/FAN (Fantastic animation).png",match
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/match-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_match-tv",Матч! ТВ
 http://185.78.112.16:8077/match/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",match_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2051.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2051",Матч! HD
 http://185.78.112.16:8077/match_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",match_igra_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2050.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2050",Матч! Игра HD
 http://185.78.112.16:8077/match_igra_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/FAN (Fantastic animation).png",match-igra
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2050.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2050",Матч! Игра
 http://185.78.112.16:8077/match-igra/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",mir HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/726.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир HD
 http://185.78.112.16:8077/mir/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",mir-24
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2078.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2078",Мир 24
 http://185.78.112.16:8077/mir-24/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Mnogo TV.png",mnogo-tv HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/799.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_799",Киносерия HD
 http://185.78.112.16:8077/mnogo-tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",mosfilm HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/3357.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_3357",Мосфильм. Золотая коллекция
 http://185.78.112.16:8077/mosfilm/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",moskva_24
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/moskva-24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_moskva-24",Москва-24
 http://185.78.112.16:8077/moskva_24/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",moya_planeta
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/675.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_675",Моя Планета
 http://185.78.112.16:8077/moya_planeta/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",mtv-stolitca
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://avatars.mds.yandex.net/i?id=1f6137dad3f07a22230dae7245ef49c7_l-16458558-images-thumbs&n=13",МТВ Столица
 http://185.78.112.16:8077/mtv-stolitca/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",mult
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1332.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1332",Мульт
 http://185.78.112.16:8077/mult/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",multimania
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2757.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2757",Мультиландия
 http://185.78.112.16:8077/multimania/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Music Box Gold.png",music-box-ru HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/russian-musicbox.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_russian-musicbox",Russian MusicBox HD
 http://185.78.112.16:8077/music-box-ru/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Music Box Gold.png",music-box-ru HD
-http://185.78.112.16:8077/music-box-ru/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",muz_tv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/897.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_897",Муз-ТВ
 http://185.78.112.16:8077/muz_tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",muzhskoe-kino_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1584.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1584",Мужское кино HD
 http://185.78.112.16:8077/muzhskoe-kino_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Nano_.png",nano_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/nano-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nano-hd",Nano HD
 http://185.78.112.16:8077/nano_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Nano HD.png",nano-tv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",magnat магаз
 http://185.78.112.16:8077/nano-tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",nash_football_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2250.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2250",Матч! Премьер HD
 http://185.78.112.16:8077/nash_football_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",nash_kinopokaz_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2831.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2831",Наш Кинопоказ HD
 http://185.78.112.16:8077/nash_kinopokaz_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",nasha_tema_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2433.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2433",Наша тема
 http://185.78.112.16:8077/nasha_tema_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/NASA HD.png",nashe-kino
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/12.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_12",Родное кино
 http://185.78.112.16:8077/nashe-kino/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",nashe-novoe-kino HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/485.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_485",Наше новое кино HD
 http://185.78.112.16:8077/nashe-novoe-kino/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",nash-football
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2250.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2250",Матч! Премьер
 http://185.78.112.16:8077/nash-football/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Nat Geo Wild.png",natgeo
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/7632.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7632",Terra
 http://185.78.112.16:8077/natgeo/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Nat Geo Wild.png",natgeo
-http://185.78.112.16:8077/natgeo/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",natgeo_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/7632.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7632",Terra HD
 http://185.78.112.16:8077/natgeo_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",natgeo_wild_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/223.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_223",Nat Geo Wild HD
 http://185.78.112.16:8077/natgeo_wild_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",nnttv HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/nnt.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nnt",ННТ
 http://185.78.112.16:8077/nnttv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",nnttv HD
-http://185.78.112.16:8077/nnttv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",nostalgia
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/783.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_783",Ностальгия
 http://185.78.112.16:8077/nostalgia/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",nstv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/nst.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nst",Настоящее страшное ТВ
 http://185.78.112.16:8077/nstv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/FashionTv.png",ntv_fed
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv",НТВ
 http://185.78.112.16:8077/ntv_fed/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/FashionTv.png",ntv_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2001.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_162",НТВ HD
 http://185.78.112.16:8077/ntv_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/FashionTv.png",ntv_hit HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/ntv-xit.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-xit",НТВ-Хит
 http://185.78.112.16:8077/ntv_hit/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/FashionTv.png",ntv_pravo
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-pravo",НТВ-Право
 http://185.78.112.16:8077/ntv_pravo/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",ntv_serial HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/ntv-serial.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-serial",НТВ-Сериал
 http://185.78.112.16:8077/ntv_serial/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",ntv_stil HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/ntv-style.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-style",НТВ-Стиль
 http://185.78.112.16:8077/ntv_stil/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",o_ HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1757.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1757",О!
 http://185.78.112.16:8077/o_/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",o2_tv HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2412.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2412",О2ТВ HD
 http://185.78.112.16:8077/o2_tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",ohot_i_rybolov_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1681.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1681",Охотник и рыболов HD
 http://185.78.112.16:8077/ohot_i_rybolov_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",ohotnik
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_oxotnik-i-rybolov",Охотник и рыболов
 http://185.78.112.16:8077/ohotnik/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Eurosport 1.png",ort_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/983.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_146",Первый HD
 http://185.78.112.16:8077/ort_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/uzsport.png",ort_msk
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy",Первый канал
 http://185.78.112.16:8077/ort_msk/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",oruzhie
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2430.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2430",Оружие
 http://185.78.112.16:8077/oruzhie/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",otkr_mir
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2462.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2462",Открытый мир
 http://185.78.112.16:8077/otkr_mir/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",otr
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1000.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1000",ОТР
 http://185.78.112.16:8077/otr/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",pes_i_ko
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",magnat магаз
 http://185.78.112.16:8077/pes_i_ko/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Animal Planet.png",planb HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/plan-b.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_plan-b",Plan_B
 http://185.78.112.16:8077/planb/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Animal Planet.png",planeta_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/675.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_675",Моя Планета HD
 http://185.78.112.16:8077/planeta_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",pobeda_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2447.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2447",Победа HD
 http://185.78.112.16:8077/pobeda_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/vip premiere.png",premiera HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/566.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_566",Кинопремьера HD
 http://185.78.112.16:8077/premiera/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",pro_lubov_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2829.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2829",Про Любовь HD
 http://185.78.112.16:8077/pro_lubov_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",prosveshenie
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/prosveschenie.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_prosveschenie",Просвещение
 http://185.78.112.16:8077/prosveshenie/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",Pyatnica
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/piatnica.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica",Пятница!
 http://185.78.112.16:8077/Pyatnica/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",pyatnica_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2765.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1003",Пятница! HD
 http://185.78.112.16:8077/pyatnica_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",radost-moya
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2287.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2287",Радость моя
 http://185.78.112.16:8077/radost-moya/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",ratnik_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2470.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2470",Ратник
 http://185.78.112.16:8077/ratnik_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Brazzers TV Europe.png",raz-tv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/3551.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_3551",Gags Network
 http://185.78.112.16:8077/raz-tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",rbc
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/743.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_743",РБК
 http://185.78.112.16:8077/rbc/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",red_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/sony.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sony-tv",.red HD
 http://185.78.112.16:8077/red_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",RGVK-DAGESTAN HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rgvk-dagestan",РГВК Дагестан
 http://185.78.112.16:8077/RGVK-DAGESTAN/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Радио Romantika.png",romance_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/cms/live/9dc589f6-3cd4-49dc-89da-7783771a978d.png?width=340&height=192&quality=93",Весна HD
 http://185.78.112.16:8077/romance_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Eurosport 1.png",rossia_24
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1683.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1683",Россия-24
 http://185.78.112.16:8077/rossia_24/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",rossia_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/984.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_711",Россия 1 HD
 http://185.78.112.16:8077/rossia_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Eurosport 1.png",rossia_k
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/187.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_187",Россия К
 http://185.78.112.16:8077/rossia_k/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",rt_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/rt-news.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rt-news",Russia Today HD
 http://185.78.112.16:8077/rt_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",rt-doc
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/ege-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ege-tv",ЕГЭ
 http://185.78.112.16:8077/rt-doc/index.m3u8
 #EXTINF:-1 group-title="185.78.112.16_Кизилюрт",rtdoc_hd HD
 http://185.78.112.16:8077/rtdoc_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/RTG.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rtg-tv",rtg
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2280.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2280",RTG TV
 http://185.78.112.16:8077/rtg/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/RTG HD.png",rtg_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/648.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_648",RTG HD
 http://185.78.112.16:8077/rtg_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",rubl
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/360-news.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_360-news",360° Новости
 http://185.78.112.16:8077/rubl/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",rus-bestseller
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/994.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_994",Русский Бестселлер
 http://185.78.112.16:8077/rus-bestseller/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",rus-detective
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1570.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1570",Русский Детектив
 http://185.78.112.16:8077/rus-detective/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/MTV Russia.png",rus-extrim
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2497.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2497",Russian Extreme
 http://185.78.112.16:8077/rus-extrim/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",rus-extrim-hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2497.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2497",Russian Extreme HD
 http://185.78.112.16:8077/rus-extrim-hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/MTV Russia.png",rusong
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/591.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_591",Bridge TV Русский хит
 http://185.78.112.16:8077/rusong/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/MTV Russia.png",rus-roman
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/401.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_401",Русский Роман
 http://185.78.112.16:8077/rus-roman/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Russia Today.png",russia-today
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/doverie.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_doverie",Москва. Доверие
 http://185.78.112.16:8077/russia-today/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",russki_roman_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/401.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_401",Русский роман HD
 http://185.78.112.16:8077/russki_roman_hd/index.m3u8
 #EXTINF:-1 group-title="185.78.112.16_Кизилюрт",ru-tv
 http://185.78.112.16:8077/ru-tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",ryzhiy
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2437.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2437",Рыжий
 http://185.78.112.16:8077/ryzhiy/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",sarafan
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/663.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_663",Сарафан
 http://185.78.112.16:8077/sarafan/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Shot TV.png",shot_tv HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/431.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_431",Shot TV HD
 http://185.78.112.16:8077/shot_tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",soyuz HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2448.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2448",Союз
 http://185.78.112.16:8077/soyuz/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",spas
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2141.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2141",Спас
 http://185.78.112.16:8077/spas/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",sreda HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",Среда
 http://185.78.112.16:8077/sreda/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Global Star tv.png",start_air HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/start-air.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_start-air",Start Air
 http://185.78.112.16:8077/start_air/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Global Star tv.png",start_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2530.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2530",Старт HD
 http://185.78.112.16:8077/start_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",start_world HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/6240.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_6240",Start World
 http://185.78.112.16:8077/start_world/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",strana
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/multimuzyka.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_multimuzyka",Мульт и Музыка
 http://185.78.112.16:8077/strana/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",strk_hd
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2827.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2827",Театр
 http://185.78.112.16:8077/strk_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",sts_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/79.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС HD
 http://185.78.112.16:8077/sts_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",sts_kids HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2481.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2481",СТС Kids HD
 http://185.78.112.16:8077/sts_kids/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",sts-love
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1322.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1322",СТС Love
 http://185.78.112.16:8077/sts-love/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Super Tennis.png",super
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2288.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2288",Суббота
 http://185.78.112.16:8077/super/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",t24
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/texno-24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_texno-24",Техно 24
 http://185.78.112.16:8077/t24/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",taina
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",магаз
 http://185.78.112.16:8077/taina/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",teledom_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2139.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2139",Теледом HD
 http://185.78.112.16:8077/teledom_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",teleputeshestviya
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2424.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2424",Телепутешествия
 http://185.78.112.16:8077/teleputeshestviya/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",teletravel_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2311.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2311",Приключения HD
 http://185.78.112.16:8077/teletravel_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",thlum_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1332.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1332",Мульт HD
 http://185.78.112.16:8077/thlum_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2343.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2343",tnt
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt",ТНТ
 http://185.78.112.16:8077/tnt/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",tnt_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/1767.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_353",ТНТ HD
 http://185.78.112.16:8077/tnt_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",tnt_music
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/tnt-music.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt-music",FON music
 http://185.78.112.16:8077/tnt_music/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2343.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2343" tvg-shift="4",tnt-4
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/tnt4.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt4",ТНТ 4
 http://185.78.112.16:8077/tnt-4/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",tochka
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2457.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2457",Точка ТВ
 http://185.78.112.16:8077/tochka/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/O'zbekiston.png",tonus
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/tonus-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tonus-tv",Тонус ТВ
 http://185.78.112.16:8077/tonus/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/MCM Top.png",topshop
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",магаз
 http://185.78.112.16:8077/topshop/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/MCM Top.png",topsong
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bridge-tv-classic",Bridge TV Classic
 http://185.78.112.16:8077/topsong/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",tv3
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/698.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_698",ТВ-3
 http://185.78.112.16:8077/tv3/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/TVM Channel.png",tvm HD
-http://185.78.112.16:8077/tvm/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",usadba
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/434.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_434",Усадьба
 http://185.78.112.16:8077/usadba/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",usadba
-http://185.78.112.16:8077/usadba/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",uspeh
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2455.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2455",Успех
 http://185.78.112.16:8077/uspeh/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",uspeh
-http://185.78.112.16:8077/uspeh/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/utv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_utv",utv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/yu.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yu",Ю
 http://185.78.112.16:8077/utv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",viju_nature_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/765.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_765",viju Nature
 http://185.78.112.16:8077/viju_nature_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",viju_tv1000_action_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/125.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_125",viju TV1000 Action
 http://185.78.112.16:8077/viju_tv1000_action_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",viju_tv1000_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/127.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_127",viju TV1000
 http://185.78.112.16:8077/viju_tv1000_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",viju_tv1000_rus_hd HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv1000-russkoe-kino",viju TV1000 Русское кино
 http://185.78.112.16:8077/viju_tv1000_rus_hd/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/NHK WORLD-JAPAN.png",world-fashion HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2417.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2417",Большая Азия HD
 http://185.78.112.16:8077/world-fashion/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",WorldFashionChannel HD
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="https://iptvx.one/picons/silk-way-cinema.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_silk-way-cinema",Silk Way Cinema
 http://185.78.112.16:8077/WorldFashionChannel/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/Zee TV.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zee-tv",zee-tv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2233.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2233",Индия
 http://185.78.112.16:8077/zee-tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",zhivaya-planeta
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2432.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2432",Живая планета
 http://185.78.112.16:8077/zhivaya-planeta/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="../Channel/Logo/ZooПарк.png",zoo_tv
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/2431.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2431",Зоо ТВ
 http://185.78.112.16:8077/zoo_tv/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",zvezda
+#EXTINF:-1 group-title="185.78.112.16_Кизилюрт" tvg-logo="http://epg.one/img2/405.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
 http://185.78.112.16:8077/zvezda/index.m3u8
-#EXTINF:-1 group-title="185.78.112.16_Кизилюрт",zvezda_plus_hd HD
-http://185.78.112.16:8077/zvezda_plus_hd/index.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",360-novosti-hd HD
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/360-novosti-hd/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",5kanal
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/5kanal/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com" tvg-logo="../Channel/Logo/CNN International.png",cnn
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/cnn/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",CTC
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/CTC/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",domashnij
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/domashnij/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",izvestija
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/izvestija/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",izvestija-hd HD
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/izvestija-hd/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",mir
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/mir/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",mir-24
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/mir-24/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",mir-hd HD
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/mir-hd/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com" tvg-logo="../Channel/Logo/FashionTv.png",ntv
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/ntv/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com" tvg-logo="../Channel/Logo/FashionTv.png",ntv-mir
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/ntv-mir/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",otr
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/otr/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",otr-hd HD
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/otr-hd/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com" tvg-logo="../Channel/Logo/Super Tennis.png",perec
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/perec/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com" tvg-logo="../Channel/Logo/Super Tennis.png",pervyj
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/pervyj/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",piatnica
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/piatnica/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",piatnica-hd HD
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/piatnica-hd/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",rbk
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/rbk/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",ren-tv
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/ren-tv/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com" tvg-logo="../Channel/Logo/RTVi.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11396",rtvi HD
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/rtvi/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com" tvg-logo="../Channel/Logo/Russia Today.png",russia-today
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/russia-today/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",sankt-peterburg
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/sankt-peterburg/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",sarafan
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/sarafan/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",spas
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/spas/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",sts-love
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/sts-love/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com" tvg-logo="../Channel/Logo/Super Tennis.png",super
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/super/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com" tvg-logo="../Channel/Logo/Super Tennis.png",super-hd HD
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/super-hd/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",telekanal-360
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/telekanal-360/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com" tvg-logo="http://epg.one/img2/2343.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2343",TNT
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/TNT/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",tnt4
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/tnt4/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",tv3
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/tv3/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",tvc
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/tvc/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",tvc-hd HD
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/tvc-hd/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",vremya
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/vremya/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",yu-tv
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/yu-tv/video.m3u8
-#EXTINF:-1 group-title="185.211.244.21_tchaikovsky.af-stream.com",zvezda
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/zvezda/video.m3u8
-#EXTINF:-1 group-title="192.162.37.3_Таштагол_Россия",a005
-http://192.162.37.3:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="192.162.37.3_Таштагол_Россия",a003 HD
-http://192.162.37.3:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="192.162.37.3_Таштагол_Россия",a00m HD
-http://192.162.37.3:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="192.162.37.3_Таштагол_Россия",a00p HD
+#EXTINF:-1 group-title="192.162.37.3_Таштагол_Россия" tvg-logo="https://iptvx.one/picons/10kanal-novokuzneck.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_10kanal-novokuzneck",Десятка (Новокузнецк)
 http://192.162.37.3:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/ЕГЭ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ege-tv",ЕГЭ
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/ege-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ege-tv",ЕГЭ
 http://193.25.8.59:8000/24Doc
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/2x2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1108",2x2 (+7)
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/1108.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1108",2x2 (+7)
 http://193.25.8.59:8000/2x2
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",Poehali
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2350.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2350",Поехали!
 http://193.25.8.59:8000/360
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",05 ПЯТЫЙ КАНАЛ
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/427.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_427",Пятый канал
 http://193.25.8.59:8000/5
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1371",AMEDIA 1
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/1371.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1371",Amedia 1
 http://193.25.8.59:8000/amedia1
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2492",AMEDIA 2
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2492.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2492",Amedia 2
 http://193.25.8.59:8000/amedia2
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Дикий.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2283",Дикий
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2283.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2283",Дикий
 http://193.25.8.59:8000/animal
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Карусель.png",Картун
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/9183.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9183",Cartoon Classics
 http://193.25.8.59:8000/Avto24
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/516.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_516",.Sci-Fi
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/516.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_516",.sci-fi
 http://193.25.8.59:8000/axn
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2170.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2170",Belarus 24
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/belarus24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus24",Беларусь-24
 http://193.25.8.59:8000/belarus24
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",Bober
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2026.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2026",Бобёр
 http://193.25.8.59:8000/bober
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Fightbox.png",Fight Club
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",Fight Club
 http://193.25.8.59:8000/box
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Конный мир HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-uvlecheniy",Мир Увлечений
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/mir-uvlecheniy.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-uvlecheniy",#КтоКуда
 http://193.25.8.59:8000/discovery
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Доктор.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_16",Доктор
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/16.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_16",Доктор
 http://193.25.8.59:8000/doctor
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",14 Домашний
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/304.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний
 http://193.25.8.59:8000/dom
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",Dom Kino
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/834.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_834",Дом кино
 http://193.25.8.59:8000/domkino
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",DRIVE
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2443.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2443",Драйв
 http://193.25.8.59:8000/drive
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/epic.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_epic",Epic
 http://193.25.8.59:8000/dtx
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС HD
 http://193.25.8.59:8000/ESPN
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",Evrokino
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/352.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_352",Еврокино
 http://193.25.8.59:8000/eurokino
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Старт.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_start-triumf",Старт Триумф
 http://193.25.8.59:8000/eurosport2
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2145",Star Cinema
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2145.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2145",Star Cinema
 http://193.25.8.59:8000/FilmBOX
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Матч Премьер HD.png",Матч Футбол 1
-http://193.25.8.59:8000/fut
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Матч Премьер HD.png",Матч Футбол 2
-http://193.25.8.59:8000/fut2
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Матч Премьер HD.png",Матч Футбол 3
-http://193.25.8.59:8000/fut3
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Тайны Галактики.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_galaxy-tv",Тайны галактики
 http://193.25.8.59:8000/galaxy
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/История.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1036",История
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/1036.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1036",История
 http://193.25.8.59:8000/History
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",08 КАРУСЕЛЬ
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/740.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
 http://193.25.8.59:8000/karusel
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/1038.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1038",KHL Prime HD
 http://193.25.8.59:8000/khl
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",18 МИР
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/726.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир
 http://193.25.8.59:8000/mir
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",MIR 24 HD
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/mir24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-24",Мир-24
 http://193.25.8.59:8000/mir24
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Мир сериала.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2275",Мир Сериала
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2275.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2275",Мир Сериала
 http://193.25.8.59:8000/mirseriala
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",Moskva 24
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/moskva-24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_moskva-24",Москва-24
 http://193.25.8.59:8000/moskva24
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/BRIDGE TV DELUXE.png",BRIDGE SHLYAGER
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/4621.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4621",Bridge TV Шлягер
 http://193.25.8.59:8000/mtv
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",20 МУЗ ТВ
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/897.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_897",Муз-ТВ
 http://193.25.8.59:8000/muz
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Мужской.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2444",Мужской
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2444.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2444",Мужской
 http://193.25.8.59:8000/muzhskoy
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",Muzika
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/715.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_715",Музыка Первого
 http://193.25.8.59:8000/muzika
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_675",Моя Планета
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/675.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_675",Моя Планета
 http://193.25.8.59:8000/myplanet
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/765.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_765",viju Nature
 http://193.25.8.59:8000/nature
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Наука.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nauka",Наука
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/nauka-20.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nauka-20",Наука 2.0
 http://193.25.8.59:8000/nauka
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",NST
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/nst.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nst",Настоящее страшное ТВ
 http://193.25.8.59:8000/nst
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2419",Охота и Рыбалка
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2419.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2419",Охота и Рыбалка
 http://193.25.8.59:8000/ohota
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",09 ОТР
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/1000.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1000",ОТР
 http://193.25.8.59:8000/otr
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",OTV HD
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/otv-saxalin.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_otv-saxalin",ОТВ Сахалин
 http://193.25.8.59:8000/otv
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",TOCHKA OTRYVA
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/617.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_617",Точка отрыва
 http://193.25.8.59:8000/outdoor
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2041",НТВ Хит
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/ntv-xit.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-xit",НТВ-Хит
 http://193.25.8.59:8000/Paramount
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Че.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1598" tvg-shift="-7",Че (+7)
 http://193.25.8.59:8000/perec
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",16 Пятница
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/piatnica.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica",Пятница!
 http://193.25.8.59:8000/pyatnitsa
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",RETRO
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/retro-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_retro-tv",Ретро ТВ
 http://193.25.8.59:8000/retro
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2051",Матч ТВ HD
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2051.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2051",Матч ТВ HD
 http://193.25.8.59:8000/rossia2
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",07 РОССИЯ-24
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/1683.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1683",Россия-24
 http://193.25.8.59:8000/rossia24
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",06 РОССИЯ-К
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/187.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_187",Россия К
 http://193.25.8.59:8000/rossiak
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/RT HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rtd-ru",RT DOC
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/rt-doc.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rtd-ru",RT Д Русский
 http://193.25.8.59:8000/rtdoc
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/RTG HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_648",RTG HD
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/648.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_648",RTG HD
 http://193.25.8.59:8000/rtg
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/BRIDGE TV РУССКИЙ ХИТ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_591",BRIDGE TV РУССКИЙ ХИТ
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/591.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_591",Bridge TV Русский хит
 http://193.25.8.59:8000/rusong
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_401",Русский Роман
 http://193.25.8.59:8000/rusroman
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Открытый мир.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2462",Открытый мир
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2462.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2462",Открытый мир
 http://193.25.8.59:8000/Science
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/sony.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sony-tv",.Red HD
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/sony.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sony-tv",.red HD
 http://193.25.8.59:8000/set
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Шансон ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2278",Шансон ТВ
 http://193.25.8.59:8000/shanson
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Союз.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2448",Союз
 http://193.25.8.59:8000/soyuz
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/12 Канал (Омск).png",12 Спас
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2141.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2141",Спас
 http://193.25.8.59:8000/spas
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11271",Матч Игра
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://veranzo.ru/other/icons/Матч! Игра.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11271",Матч Игра
 http://193.25.8.59:8000/sport
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11269",Матч Арена
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2003.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2003",Матч! Арена
 http://193.25.8.59:8000/sport1
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Театр.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2827",Театр
 http://193.25.8.59:8000/teatr
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",Telecafe
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2304.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2304",Телекафе
 http://193.25.8.59:8000/telecafe
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Романтичное.png",Романс
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/cms/live/9dc589f6-3cd4-49dc-89da-7783771a978d.png?width=340&height=192&quality=93",Весна
 http://193.25.8.59:8000/tlc
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1104",ТНТ4 (+7)
 http://193.25.8.59:8000/tntcomedy
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mosfilm-pl4",Мосфильм. Золотая коллекция (+4)
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/mosfilm-pl4.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mosfilm-pl4",Мосфильм. Золотая коллекция (+4)
 http://193.25.8.59:8000/tnv
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",Pobeda
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2447.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2447",Победа
 http://193.25.8.59:8000/tochka
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/127.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_127",viju TV1000
 http://193.25.8.59:8000/TV1000
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/267.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_267",viju TV1000 русское
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv1000-russkoe-kino",viju TV1000 Русское кино
 http://193.25.8.59:8000/TV1000RU
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",15 ТВ3
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/698.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_698",ТВ-3
 http://193.25.8.59:8000/tv3
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",10 ТВ Центр
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/tvcentr.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tvcentr",ТВ Центр
 http://193.25.8.59:8000/tvc
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Живая планета.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2432",Живая Планета
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2432.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2432",Живая Планета
 http://193.25.8.59:8000/tvsale
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",Ю-ТВ (+7)
 http://193.25.8.59:8000/u
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",USADBA
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/434.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_434",Усадьба
 http://193.25.8.59:8000/usadba
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/Европа Плюс ТВ.png",Европа Плюс
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/681.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_681",Europa Plus TV
 http://193.25.8.59:8000/vh1
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2055.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2055",viju+ Sport
 http://193.25.8.59:8000/viasatsport
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",Vremya
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/669.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_669",Время
 http://193.25.8.59:8000/vremya
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/TV XXI.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_309",TV XXI
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/tvxxi.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tvxxi",TV21
 http://193.25.8.59:8000/XXI
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",ZDOROVOE TV
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/2449.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2449",Здоровое ТВ
 http://193.25.8.59:8000/zdorovoetv
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="../Channel/Logo/ZooПарк.png",Zoo
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/zoopark.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zoopark",ZooПарк
 http://193.25.8.59:8000/zoo
-#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск",17 Звезда
+#EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/405.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
 http://193.25.8.59:8000/zvezda
-#EXTINF:-1 group-title="194.26.203.157_Viasat Comedy" tvg-logo="../Channel/Logo/Viasat nature.png",Viasat Comedy
+#EXTINF:-1 group-title="194.26.203.157_Viasat Comedy" tvg-logo="http://epg.one/img2/8880.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_8880",Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:-1 group-title="194.26.229.213_chip-n-dale",chip-n-dale-rescue-rangers
+#EXTINF:-1 group-title="194.26.229.213_chip-n-dale" tvg-logo="https://iptvx.one/picons/kernel-chipndale.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kernel-chipndale",Kernel TV Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="194.26.229.213_chip-n-dale",souzmultfilm HD
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/2x2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/323.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
 http://194.152.35.17/2x2/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/Amedia Hit.png",amedia-hit HD
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/2007.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2007",Amedia Hit HD
 http://194.152.35.17/amedia-hit/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/Ani.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2011",ani
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/2011.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2011",ani
 http://194.152.35.17/ani/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/Deutsche Welle.png",che
-http://194.152.35.17/che/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2754",cinema
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/2754.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2754",Cinema
 http://194.152.35.17/cinema/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/Gulli Girl.png",gulli_girl
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/810.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_810",Gulli Girl
 http://194.152.35.17/gulli_girl/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня",Karusel
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/740.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
 http://194.152.35.17/Karusel/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/Kino 24.png",kino-tv HD
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/1037.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1037",Кино ТВ HD
 http://194.152.35.17/kino-tv/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня",mama
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/618.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_618",Мама
 http://194.152.35.17/mama/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/FAN (Fantastic animation).png",match
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="https://iptvx.one/picons/match-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_match-tv",Матч! ТВ
 http://194.152.35.17/match/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня",Mult
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/1332.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1332",Мульт
 http://194.152.35.17/Mult/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/FashionTv.png",ntv HD
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/2001.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_162",НТВ HD
 http://194.152.35.17/ntv/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня",otr HD
-http://194.152.35.17/otr/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня",Pyatnica
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="https://iptvx.one/picons/piatnica.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica",Пятница!
 http://194.152.35.17/Pyatnica/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня",ren_tv
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rentv",Рен ТВ
 http://194.152.35.17/ren_tv/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/Eurosport 1.png",rossiya_1
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rossia1",Россия 1
 http://194.152.35.17/rossiya_1/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня",sts
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/79.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС
 http://194.152.35.17/sts/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/Tiji.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tiji",tiji
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="https://iptvx.one/picons/tiji.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tiji",TiJi
 http://194.152.35.17/tiji/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/2343.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2343",tnt
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt",ТНТ
 http://194.152.35.17/tnt/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня",tnt4
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="https://iptvx.one/picons/tnt4.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt4",ТНТ 4
 http://194.152.35.17/tnt4/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="../Channel/Logo/CCTV-4.png",tv-3
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/698.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_698",ТВ-3
 http://194.152.35.17/tv-3/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня",tvc
+#EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="https://iptvx.one/picons/tvcentr.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tvcentr",ТВ Центр
 http://194.152.35.17/tvc/index.m3u8
-#EXTINF:-1 group-title="194.152.35.17_Лобня",zvezda
+#EXTINF:-1 group-title="194.152.35.17_Лобня",Звезда
 http://194.152.35.17/zvezda/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",365_dney_tv
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2423.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2423",365 дней ТВ
 https://s70378.cdn.ngenix.net/365_dney_tv/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",5_channel
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/427.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_427",Пятый канал
 https://s70378.cdn.ngenix.net/5_channel/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",8_tv
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/8kanal-ru.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_8kanal-ru",8 канал
 https://s70378.cdn.ngenix.net/8_tv/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/AMC.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_8288",amc
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/608.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_608",Hollywood
 https://s70378.cdn.ngenix.net/amc/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Amedia Hit.png",amedia_2
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2492.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2492",Amedia 2
 https://s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Amedia Hit.png",amedia_1
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/1371.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1371",Amedia 1
 https://s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Amedia Hit.png",amedia_hit
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2007.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2007",Amedia Hit HD
 https://s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Amedia Premium HD.png",amedia_premium_hd
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/1372.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1372",Amedia Premium HD
 https://s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",boks_tv
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2285.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2285",Бокс ТВ
 https://s70378.cdn.ngenix.net/boks_tv/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",ctc_kids
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sts-kids-hd",СТС Kids
 https://s70378.cdn.ngenix.net/ctc_kids/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",da_vinci
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/410.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_410",Da Vinci Learning
 https://s70378.cdn.ngenix.net/da_vinci/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",dar21
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",dar21 ???
 https://s70378.cdn.ngenix.net/dar21/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",detskij_mir
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/923.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_923",Детский мир
 https://s70378.cdn.ngenix.net/detskij_mir/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",dikiy
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2283.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2283",Дикий
 https://s70378.cdn.ngenix.net/dikiy/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/DocuBox.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_docubox-hd",docubox
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/DocuBox.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_docubox-hd",DocuBox
 https://s70378.cdn.ngenix.net/docubox/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",dom_kino
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/834.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_834",Дом кино
 https://s70378.cdn.ngenix.net/dom_kino/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",dom_kino_premium_hd
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/domkino-premium.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_domkino-premium",Дом кино Премиум
 https://s70378.cdn.ngenix.net/dom_kino_premium_hd/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Erox HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_erox",erox
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Erox HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_erox",Erox
 https://s70378.cdn.ngenix.net/erox/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Euronews.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_euronews",euronews
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/euronews.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_euronews",EuroNews
 https://s70378.cdn.ngenix.net/euronews/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",evrokino
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/352.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_352",Еврокино
 https://s70378.cdn.ngenix.net/evrokino/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Fashion tv.png",fashion_box
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/fashionbox-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_fashionbox-hd",FashionBox
 https://s70378.cdn.ngenix.net/fashion_box/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/FilmBox.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2181",filmbox
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2181.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2181",FilmBox
 https://s70378.cdn.ngenix.net/filmbox/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/FilmBox Arthouse.png",filmbox_arthouse
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2181.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2181",FilmBox
 https://s70378.cdn.ngenix.net/filmbox_arthouse/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Fox Life.png",fox_life
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/1031.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1031",Fox
 https://s70378.cdn.ngenix.net/fox_life/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Galaxy.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2418",galaxy
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_galaxy-tv",Galaxy-TV
 https://s70378.cdn.ngenix.net/galaxy/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Gulli Girl.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_810",gulli
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/810.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_810",Gulli Girl
 https://s70378.cdn.ngenix.net/gulli/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Gulli Girl.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_810",gulli
-https://s70378.cdn.ngenix.net/gulli/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/H2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2356",h2
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2356.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2356",h2
 https://s70378.cdn.ngenix.net/h2/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Nano HD_.png",hd_life
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/415.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_415",Точка.РФ
 https://s70378.cdn.ngenix.net/hd_life/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/History.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1394",history
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/1394.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1394",History
 https://s70378.cdn.ngenix.net/history/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",illusion_plus
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2403.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2403",Иллюзион+
 https://s70378.cdn.ngenix.net/illusion_plus/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",india_tv
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/798.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_798",Индийское кино
 https://s70378.cdn.ngenix.net/india_tv/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",izvestiya
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2271.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2271",Известия
 https://s70378.cdn.ngenix.net/izvestiya/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",jivi
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/zhivi.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zhivi",Живи
 https://s70378.cdn.ngenix.net/jivi/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",karusel
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/740.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
 https://s70378.cdn.ngenix.net/karusel/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",kentron
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/kentron-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kentron-tv",Kentron TV
 https://s70378.cdn.ngenix.net/kentron/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Kino 24.png",kinoklub
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/462.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_462",Киносвидание
 https://s70378.cdn.ngenix.net/kinoklub/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",kvn_tv
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/kvn-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kvn-tv",КВН-ТВ
 https://s70378.cdn.ngenix.net/kvn_tv/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",kxl
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/kxl.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kxl",КХЛ
 https://s70378.cdn.ngenix.net/kxl/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",m1_global
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/m1global.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_m1global",M-1 Global
 https://s70378.cdn.ngenix.net/m1_global/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Animal Planet.png",malish
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://veranzo.ru/other/icons/СуперГерои.png" tvg-id="d09336db60acee31f19aef3ee307fef6_8287",Супер Герои
 https://s70378.cdn.ngenix.net/malish/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",match_planeta
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2043.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2043",Матч! Планета
 https://s70378.cdn.ngenix.net/match_planeta/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Mezzo.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_575",mezzo
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Mezzo.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_575",Mezzo
 https://s70378.cdn.ngenix.net/mezzo/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",mir
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/726.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир
 https://s70378.cdn.ngenix.net/mir/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",mir_24
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/mir24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-24",Мир-24
 https://s70378.cdn.ngenix.net/mir_24/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",mir_seriala
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2275.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2275",Мир сериала
 https://s70378.cdn.ngenix.net/mir_seriala/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Mnogo TV.png",mnogo_tv
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/799.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_799",Киносерия
 https://s70378.cdn.ngenix.net/mnogo_tv/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",nashe_novoe_kino
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/485.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_485",Наше новое кино
 https://s70378.cdn.ngenix.net/nashe_novoe_kino/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/National Geographic.png",national_geographic
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/102.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_102",National Geographic
 https://s70378.cdn.ngenix.net/national_geographic/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Nickelodeon.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_423",nickelodeon
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/423.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_423",Nickelodeon
 https://s70378.cdn.ngenix.net/nickelodeon/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",nostalgia
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/783.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_783",Ностальгия
 https://s70378.cdn.ngenix.net/nostalgia/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/FashionTv.png",ntv_pravo
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-pravo",НТВ-Право
 https://s70378.cdn.ngenix.net/ntv_pravo/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/FashionTv.png",ntv_serial
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/ntv-serial.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-serial",НТВ-Сериал
 https://s70378.cdn.ngenix.net/ntv_serial/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Ocean TV.png",ocean_tv
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/55.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_55",Ocean-TV
 https://s70378.cdn.ngenix.net/ocean_tv/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",rbc
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/743.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_743",РБК
 https://s70378.cdn.ngenix.net/rbc/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",ren_tv
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rentv",Рен ТВ
 https://s70378.cdn.ngenix.net/ren_tv/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/RTG HD.png",rtg_hd
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/648.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_648",RTG HD
 https://s70378.cdn.ngenix.net/rtg_hd/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/RTVi.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2401",rtvi
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/rtvi.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rtvi",RTVi Европа
 https://s70378.cdn.ngenix.net/rtvi/2/index.m3u8
 #EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Shop&Show.png",shoghakat
 https://s70378.cdn.ngenix.net/shoghakat/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Sony Sci-Fi.png",sony_sci_fi
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/516.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_516",.sci-fi
 https://s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Sony Turbo.png",sony_turbo
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/935.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_935",.black
 https://s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",telecafe
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2304.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2304",Телекафе
 https://s70378.cdn.ngenix.net/telecafe/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/CNN International.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7632",terra
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/7632.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7632",Terra
 https://s70378.cdn.ngenix.net/terra/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",the_explorers
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/9082.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9082",The Explorers
 https://s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Tiji.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tiji",tiji
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/tiji.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tiji",TiJi
 https://s70378.cdn.ngenix.net/tiji/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",tnt_music
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/tnt-music.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt-music",FON music
 https://s70378.cdn.ngenix.net/tnt_music/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",travel_and_adventure
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/1035.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1035",Travel+Adventure
 https://s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",tv_3
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/698.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_698",ТВ-3
 https://s70378.cdn.ngenix.net/tv_3/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",tv_xxi
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/tvxxi.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tvxxi",TV21
 https://s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/UFC ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ufc",ufc
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/ufc.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ufc",UFC ТВ
 https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Viasat history.png",viasat_explore
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/521.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_521",viju Explore
 https://s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Viasat history.png",viasat_history
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/277.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_277",viju History
 https://s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Viasat nature.png",viasat_nature
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/765.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_765",viju Nature
 https://s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Viasat Sport.png",viasat_sport
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2055.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2055",viju+ Sport
 https://s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/vip comedy.png",vip_comedy
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/1011.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1011",viju+ Comedy HD
 https://s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",vip_megahit
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/1012.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1012",viju+ Megahit HD
 https://s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",vip_premiere
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/1013.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1013",viju+ Premiere HD
 https://s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/vip comedy.png",vip_serial
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2838.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2838",viju+ Serial HD
 https://s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара",vremia
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/669.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_669",Время
 https://s70378.cdn.ngenix.net/vremia/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/Zee TV.png",zee_tv
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2233.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2233",Индия
 https://s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/ZooПарк.png",zoopark
-https://s70378.cdn.ngenix.net/zoopark/2/index.m3u8
-#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="../Channel/Logo/ZooПарк.png",zoopark
+#EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="https://iptvx.one/picons/zoopark.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zoopark",ZooПарк
 https://s70378.cdn.ngenix.net/zoopark/2/index.m3u8
 #EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария",ТВ-1000 Русское кино
 http://213.169.39.30:5006
@@ -2859,3 +2729,5 @@ http://213.169.39.30:5262
 http://213.169.39.30:5269
 #EXTINF:-1 group-title="213.169.39.30_Vivacom_Болгария",XY Plus
 http://213.169.39.30:5272
+#EXTINF:-1 group-title="178.163.5.14_udp_Самара" tvg-logo="https://iptvx.one/picons/russky-ekstrim.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_russky-ekstrim",Русский экстрим
+http://178.163.5.14:4022/udp/234.0.0.173:2000
