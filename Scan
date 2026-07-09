@@ -13,33 +13,29 @@ http://4.59.210.197:8815/udp/127.0.0.1:6008
 http://4.59.210.197:8815/udp/127.0.0.1:6009
 #EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",Израиль9-America
 http://4.59.210.197:8815/udp/127.0.0.1:6013
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png",Bridge_TV_Classic
-http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="../Channel/Logo/Bridge TV Hits.png",Bridge_TV_Hits
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="http://epg.one/img2/2024.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2024",Bridge TV Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png",Bridge_TV_Deluxe HD
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="https://iptvx.one/picons/bridge-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bridge-hd",Bridge Deluxe
 http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="../Channel/Logo/Cartoon Network.png",Cartoon_Network
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="http://epg.one/img2/9183.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9183",Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="../Channel/Logo/Discovery Channel HD.png",DiscoveryChannel HD
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="http://epg.one/img2/325.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_325",Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="../Channel/Logo/Hollywood HD.png",HOLLYWOOD_HD
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="http://epg.one/img2/608.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_608",Hollywood
 http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",KINOPREMIERA HD
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="http://epg.one/img2/566.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_566",Кинопремьера HD
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="../Channel/Logo/Kino 24.png",kinosvidanie
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="http://epg.one/img2/462.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_462",Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",megogo_sport HD
-http://5.188.159.128:8070/megogo_sport/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",mir_24 HD
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="https://iptvx.one/picons/mir24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-24",Мир-24
 http://5.188.159.128:8070/mir_24/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="../Channel/Logo/FashionTv.png",ntvmir_TV
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="../Channel/Logo/FashionTv.png",НТВ-Мир
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",rutv
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="http://epg.one/img2/2277.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2277",RU.TV
 http://5.188.159.128:8070/rutv/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург",TNT_MUSIC
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="https://iptvx.one/picons/tnt-music.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt-music",ТНТ-Music
 http://5.188.159.128:8070/TNT_MUSIC/index.m3u8
-#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="https://veranzo.ru/other/icons/УДАР.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10921",udar HD
+#EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="https://iptvx.one/picons/ufc.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ufc",Удар ТВ
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург" tvg-logo="../Channel/Logo/2x2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
 http://5.188.221.43:8080/play/2x2
