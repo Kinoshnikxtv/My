@@ -93,7 +93,7 @@ http://5.188.221.43:8080/play/tv-centr
 http://5.188.221.43:8080/play/utv
 #EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург" tvg-logo="http://epg.one/img2/405.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
 http://5.188.221.43:8080/play/zvezda
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения" tvg-logo="../Channel/Logo/TV1000.png",100
+#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения" tvg-logo="../Channel/Logo/TV1000.png",	О!
 http://37.186.70.39:40/play/100/index.m3u8
 #EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",101 HD
 http://37.186.70.39:40/play/101/index.m3u8
@@ -141,25 +141,23 @@ http://37.186.70.39:40/play/123/index.m3u8
 http://37.186.70.39:40/play/122/index.m3u8
 #EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",124
 http://37.186.70.39:40/play/124/index.m3u8
-#EXTINF:-1 group-title="45.11.139.43_Армения",8kanal
+#EXTINF:-1 group-title="45.11.139.43_Армения",8 канал
 http://45.11.139.43:8555/8kanal/index.m3u8
-#EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/BBC World News.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bbc",bbc
+#EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/BBC World News.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bbc",BBC World News
 http://45.11.139.43:8555/bbc/index.m3u8
-#EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/CNN International.png",cnn HD
+#EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/CNN International.png",CNN International HD
 http://45.11.139.43:8555/cnn/index.m3u8
-#EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/DocuBox.png",doctor
+#EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/DocuBox.png",Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
-#EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/Euronews.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_euronews",euronews
+#EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/Euronews.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_euronews",EuroNews
 http://45.11.139.43:8555/euronews/index.m3u8
-#EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/Fashion tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_fashion-one-4k",fashion HD
-http://45.11.139.43:8555/fashion/index.m3u8
-#EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/VH1.png",h1
+#EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/VH1.png",H1 (Армения)
 http://45.11.139.43:8555/h1/index.m3u8
 #EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/Viasat explore HD.png",lori HD
 http://45.11.139.43:8555/lori/index.m3u8
-#EXTINF:-1 group-title="45.11.139.43_Армения",orujie
+#EXTINF:-1 group-title="45.11.139.43_Армения",Оружие
 http://45.11.139.43:8555/orujie/index.m3u8
-#EXTINF:-1 group-title="45.11.139.43_Армения",vremya
+#EXTINF:-1 group-title="45.11.139.43_Армения",Время
 http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/О2TV.png",2tv
 http://45.145.32.13:20440/2tv/index.m3u8?token=test
