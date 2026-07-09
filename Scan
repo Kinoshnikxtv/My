@@ -625,14 +625,6 @@ http://46.32.176.50/zvezda/index.m3u8
 http://46.56.85.151:8080/0.m3u8
 #EXTINF:-1 group-title="85.208.223.249_Кушва_Россия",REX
 http://85.208.223.249:8888/play/a004
-#EXTINF:-1 group-title="93.170.254.17_Серебряные Пруды" tvg-logo="../Channel/Logo/Kino 24.png",Kinomiks
-http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="94.230.128.107_Екатеринбург" tvg-logo="../Channel/Logo/1HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4037",1HD
-http://94.230.128.107:8080/1HD/video.m3u8
-#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",5_kanal
-http://94.230.128.107:8080/5_kanal/video.m3u8
-#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",CTC
-http://94.230.128.107:8080/CTC/video.m3u8
 #EXTINF:-1 group-title="94.230.128.107_Екатеринбург",Dorama
 http://94.230.128.107:8080/Dorama/video.m3u8
 #EXTINF:-1 group-title="94.230.128.107_Екатеринбург",Friday
@@ -645,8 +637,6 @@ http://94.230.128.107:8080/TB3/video.m3u8
 http://94.230.128.107:8080/THT/video.m3u8
 #EXTINF:-1 group-title="94.230.128.107_Екатеринбург" tvg-logo="../Channel/Logo/VHS TV.png",VHS HD
 http://94.230.128.107:8080/VHS/video.m3u8
-#EXTINF:-1 group-title="94.230.128.107_Екатеринбург",Zvezda
-http://94.230.128.107:8080/Zvezda/video.m3u8
 #EXTINF:-1 group-title="94.230.250.140_Кызыл",5kanal
 http://vod.tuva.ru/5kanal/index.m3u8
 #EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="../Channel/Logo/Euronews.png",eurokino
@@ -697,46 +687,6 @@ http://vod.tuva.ru/tuva24/index.m3u8
 http://vod.tuva.ru/tv3/index.m3u8
 #EXTINF:-1 group-title="94.230.250.140_Кызыл",zvezda
 http://vod.tuva.ru/zvezda/index.m3u8
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",01 ПЕРВЫЙ КАНАЛ
-http://95.47.155.244:8001/play/a001
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",02 РОССИЯ-1 (+4)
-http://95.47.155.244:8001/play/a002
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",03 МАТЧ!
-http://95.47.155.244:8001/play/a003
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",04 НТВ
-http://95.47.155.244:8001/play/a004
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",05 ПЯТЫЙ КАНАЛ
-http://95.47.155.244:8001/play/a005
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",06 РОССИЯ-К
-http://95.47.155.244:8001/play/a006
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",07 РОССИЯ-24
-http://95.47.155.244:8001/play/a007
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",08 КАРУСЕЛЬ
-http://95.47.155.244:8001/play/a008
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",09 ОТР
-http://95.47.155.244:8001/play/a009
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",10 ТВ Центр
-http://95.47.155.244:8001/play/a010
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия" tvg-logo="../Channel/Logo/12 Канал (Омск).png",12 Спас
-http://95.47.155.244:8001/play/a012
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия" tvg-logo="../Channel/Logo/11 канал (Пенза).png",11 РЕН ТВ
-http://95.47.155.244:8001/play/a011
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",13 СТС
-http://95.47.155.244:8001/play/a013
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",14 Домашний
-http://95.47.155.244:8001/play/a014
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",15 ТВ3
-http://95.47.155.244:8001/play/a015
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",16 Пятница
-http://95.47.155.244:8001/play/a016
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",17 Звезда
-http://95.47.155.244:8001/play/a017
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",18 МИР
-http://95.47.155.244:8001/play/a018
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",19 ТНТ
-http://95.47.155.244:8001/play/a019
-#EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",20 МУЗ ТВ
-http://95.47.155.244:8001/play/a020
 #EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",21 РТС Хакасия HD
 http://95.47.155.244:8001/play/a022
 #EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",Юг Сибири HD
@@ -1127,20 +1077,6 @@ http://176.118.197.101/THT/index.m3u8
 http://176.118.197.101/Multilandiya/index.m3u8
 #EXTINF:-1 group-title="176.118.197.101_Анжеро-Судженск" tvg-logo="http://epg.one/img2/984.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_711",Россия HD
 http://176.118.197.101/RossiyaHD/index.m3u8
-#EXTINF:-1 group-title="178.124.153.123_Минск" tvg-logo="http://epg.one/img2/5651.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_5651",Перец International
-http://178.124.153.123:44400/peretz
-#EXTINF:-1 group-title="178.124.153.123_Минск" tvg-logo="https://iptvx.one/picons/piaty-int.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piaty-int",Пятый International
-http://178.124.153.123:44400/5kanal
-#EXTINF:-1 group-title="178.124.153.123_Минск" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sts-kids-hd",СТС Kids
-http://178.124.153.123:44400/stskids
-#EXTINF:-1 group-title="178.124.153.123_Минск" tvg-logo="https://iptvx.one/picons/terra-inkognita.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_terra-inkognita",Терра Инкогнита
-http://178.124.153.123:44400/terra
-#EXTINF:-1 group-title="178.124.153.123_Минск" tvg-logo="https://iptvx.one/picons/shanson-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_shanson-tv",Шансон ТВ Hotbird
-http://178.124.153.123:44400/shanson
-#EXTINF:-1 group-title="178.124.153.123_Минск" tvg-logo="https://epg.iptvx.one/picons/belros.png",Союзный
-http://178.124.153.123:44400/belros
-#EXTINF:-1 group-title="178.124.153.123_Минск" tvg-logo="https://iptvx.one/picons/domashny-int.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_domashny-int",Домашний International
-http://178.124.153.123:44400/domashnij
 #EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2754.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2754",Cinema
 http://185.46.16.239:8000/Cinema
 #EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv",НТВ
